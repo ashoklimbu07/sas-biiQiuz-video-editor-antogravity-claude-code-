@@ -1,0 +1,3145 @@
+{
+ "_generated": "2026-11-03T17:26:38.456Z",
+ "photo_material": {
+  "id": "EE4E66D8-B004-435f-9FF4-D96A66C527B1",
+  "unique_id": "",
+  "type": "photo",
+  "duration": 10800000000,
+  "path": "C:/Users/asus/Downloads/Remove_floor_clutter_and_pot_202608222305.jpeg",
+  "media_path": "",
+  "local_id": "",
+  "has_audio": false,
+  "reverse_path": "",
+  "intensifies_path": "",
+  "reverse_intensifies_path": "",
+  "intensifies_audio_path": "",
+  "cartoon_path": "",
+  "width": 768,
+  "height": 1376,
+  "category_id": "",
+  "category_name": "local",
+  "material_id": "",
+  "material_name": "Remove_floor_clutter_and_pot_202608222305.jpeg",
+  "material_url": "",
+  "crop": {
+   "upper_left_x": 0,
+   "upper_left_y": 0,
+   "upper_right_x": 1,
+   "upper_right_y": 0,
+   "lower_left_x": 0,
+   "lower_left_y": 1,
+   "lower_right_x": 1,
+   "lower_right_y": 1
+  },
+  "crop_ratio": "free",
+  "audio_fade": null,
+  "crop_scale": 1,
+  "extra_type_option": 0,
+  "stable": {
+   "stable_level": 0,
+   "matrix_path": "",
+   "time_range": {
+    "start": 0,
+    "duration": 0
+   }
+  },
+  "matting": {
+   "flag": 0,
+   "path": "",
+   "interactiveTime": [],
+   "has_use_quick_brush": false,
+   "strokes": [],
+   "has_use_quick_eraser": false,
+   "expansion": 0,
+   "feather": 0,
+   "reverse": false,
+   "custom_matting_id": "",
+   "enable_matting_stroke": false,
+   "is_clould": false,
+   "mask_video_path": "",
+   "cloud_product_fps": 0
+  },
+  "source": 0,
+  "source_platform": 0,
+  "formula_id": "",
+  "check_flag": 62978047,
+  "video_algorithm": {
+   "algorithms": [],
+   "time_range": null,
+   "path": "",
+   "gameplay_configs": [],
+   "ai_in_painting_config": [],
+   "complement_frame_config": null,
+   "motion_blur_config": null,
+   "deflicker": null,
+   "noise_reduction": null,
+   "quality_enhance": null,
+   "super_resolution": null,
+   "ai_background_configs": [],
+   "smart_complement_frame": null,
+   "aigc_generate": null,
+   "aigc_generate_list": [],
+   "mouth_shape_driver": null,
+   "ai_expression_driven": null,
+   "ai_motion_driven": null,
+   "image_interpretation": null,
+   "story_video_modify_video_config": {
+    "task_id": "",
+    "is_overwrite_last_video": false,
+    "tracker_task_id": "",
+    "generate_id": "",
+    "generate_card_id": ""
+   },
+   "skip_algorithm_index": []
+  },
+  "is_unified_beauty_mode": false,
+  "is_set_beauty_mode": false,
+  "object_locked": null,
+  "smart_motion": null,
+  "multi_camera_info": null,
+  "freeze": null,
+  "picture_from": "none",
+  "picture_set_category_id": "",
+  "picture_set_category_name": "",
+  "team_id": "",
+  "local_material_id": "",
+  "origin_material_id": "",
+  "request_id": "",
+  "has_sound_separated": false,
+  "is_text_edit_overdub": false,
+  "is_ai_generate_content": false,
+  "aigc_type": "none",
+  "is_copyright": false,
+  "aigc_history_id": "",
+  "aigc_item_id": "",
+  "local_material_from": "",
+  "smart_match_info": null,
+  "beauty_face_preset_infos": [],
+  "beauty_body_preset_id": "",
+  "beauty_face_auto_preset": {
+   "preset_id": "",
+   "name": "",
+   "rate_map": "",
+   "scene": ""
+  },
+  "beauty_face_auto_preset_infos": [],
+  "beauty_body_auto_preset": null,
+  "live_photo_timestamp": -1,
+  "live_photo_cover_path": "",
+  "content_feature_info": null,
+  "corner_pin": null,
+  "surface_trackings": [],
+  "video_mask_stroke": {
+   "resource_id": "",
+   "path": "",
+   "type": "",
+   "color": "",
+   "size": 0,
+   "alpha": 0,
+   "distance": 0,
+   "texture": 0,
+   "horizontal_shift": 0,
+   "vertical_shift": 0
+  },
+  "video_mask_shadow": {
+   "resource_id": "",
+   "path": "",
+   "color": "",
+   "alpha": 0,
+   "blur": 0,
+   "distance": 0,
+   "angle": 0
+  },
+  "pre_applied_vip_materials": [],
+  "workflow_node_id": ""
+ },
+ "photo_segment": {
+  "id": "6D3D67F6-1FAA-4c0f-B84C-F8B65EB9F5B7",
+  "source_timerange": {
+   "start": 0,
+   "duration": 16000000
+  },
+  "target_timerange": {
+   "start": 0,
+   "duration": 16000000
+  },
+  "render_timerange": {
+   "start": 0,
+   "duration": 0
+  },
+  "desc": "",
+  "state": 0,
+  "speed": 1,
+  "is_loop": false,
+  "is_tone_modify": false,
+  "reverse": false,
+  "intensifies_audio": false,
+  "cartoon": false,
+  "volume": 1,
+  "last_nonzero_volume": 1,
+  "clip": {
+   "scale": {
+    "x": 1,
+    "y": 1
+   },
+   "rotation": 0,
+   "transform": {
+    "x": 0,
+    "y": 0
+   },
+   "flip": {
+    "vertical": false,
+    "horizontal": false
+   },
+   "alpha": 1
+  },
+  "uniform_scale": {
+   "on": true,
+   "value": 1
+  },
+  "material_id": "EE4E66D8-B004-435f-9FF4-D96A66C527B1",
+  "extra_material_refs": [
+   "C6D9BF2B-823E-4286-B199-78B3D9EBFAB5",
+   "E8C6AEAA-5A8E-4d27-AD50-085016042048",
+   "C4F93053-E3EC-4f1b-91FE-684B423F0B34",
+   "A4E78338-4BB0-428c-A1D6-24D4067BA858",
+   "93B865C7-1EFF-4f17-856A-76D2C331ABCE",
+   "5CA8EC29-0A3F-4600-A620-AC43A0AE90B9",
+   "9D0DE65F-1CD6-4fe2-854C-7CE5320F87DC",
+   "F4821918-C090-4739-94DA-8EF48B6E0861",
+   "7AF07BA6-6920-466a-A5F4-7D4DED20E592",
+   "58ACB1B9-6041-4156-B0B6-84564E396F8F"
+  ],
+  "render_index": 0,
+  "keyframe_refs": [],
+  "enable_lut": true,
+  "enable_adjust": true,
+  "enable_hsl": false,
+  "visible": true,
+  "group_id": "",
+  "enable_color_curves": true,
+  "enable_hsl_curves": true,
+  "track_render_index": 0,
+  "hdr_settings": {
+   "mode": 1,
+   "intensity": 1,
+   "nits": 1000
+  },
+  "hdr_vivid_settings": null,
+  "enable_color_wheels": true,
+  "track_attribute": 0,
+  "is_placeholder": false,
+  "template_id": "",
+  "enable_smart_color_adjust": false,
+  "template_scene": "default",
+  "common_keyframes": [],
+  "caption_info": null,
+  "responsive_layout": {
+   "enable": false,
+   "target_follow": "",
+   "size_layout": 0,
+   "horizontal_pos_layout": 0,
+   "vertical_pos_layout": 0
+  },
+  "enable_color_match_adjust": false,
+  "enable_color_correct_adjust": false,
+  "enable_adjust_mask": false,
+  "raw_segment_id": "",
+  "lyric_keyframes": null,
+  "enable_video_mask": true,
+  "digital_human_template_group_id": "",
+  "color_correct_alg_result": "",
+  "source": "segmentsourcenormal",
+  "enable_mask_stroke": false,
+  "enable_mask_shadow": false,
+  "enable_color_adjust_pro": false,
+  "segment_color_tag": ""
+ },
+ "text_material": {
+  "recognize_task_id": "",
+  "id": "9295C36A-729E-49b1-B460-548209AAF5B3",
+  "name": "",
+  "recognize_text": "",
+  "recognize_model": "",
+  "punc_model": "",
+  "type": "text",
+  "content": "{\"text\":\"Smart Tv\",\"styles\":[{\"fill\":{\"content\":{\"render_type\":\"solid\",\"solid\":{\"color\":[1,1,1]}}},\"font\":{\"path\":\"C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7182475114410152450/1c0dc86e1477e6cf7e28cf5ce91a9ad5/tmpsequel100wide-75.ttf\",\"id\":\"7182475114410152450\"},\"size\":15,\"range\":[0,8]}]}",
+  "base_content": "",
+  "words": {
+   "start_time": [],
+   "end_time": [],
+   "text": []
+  },
+  "current_words": {
+   "start_time": [],
+   "end_time": [],
+   "text": []
+  },
+  "global_alpha": 1,
+  "combo_info": {
+   "text_templates": []
+  },
+  "caption_template_info": {
+   "resource_id": "",
+   "third_resource_id": "",
+   "resource_name": "",
+   "category_id": "",
+   "category_name": "",
+   "effect_id": "",
+   "request_id": "",
+   "path": "",
+   "is_new": false,
+   "source_platform": 0
+  },
+  "layer_weight": 1,
+  "letter_spacing": 0,
+  "text_curve": null,
+  "text_loop_on_path": false,
+  "offset_on_path": 0,
+  "enable_path_typesetting": false,
+  "text_exceeds_path_process_type": 0,
+  "text_typesetting_paths": null,
+  "text_typesetting_paths_file": "",
+  "text_typesetting_path_index": 0,
+  "line_spacing": 0.02,
+  "has_shadow": false,
+  "shadow_color": "",
+  "shadow_alpha": 0.9,
+  "shadow_smoothing": 0.45,
+  "shadow_distance": 5,
+  "shadow_point": {
+   "x": 0.6363961030678928,
+   "y": -0.6363961030678928
+  },
+  "shadow_angle": -45,
+  "shadow_thickness_projection_enable": false,
+  "shadow_thickness_projection_angle": 0,
+  "shadow_thickness_projection_distance": 0,
+  "border_alpha": 1,
+  "border_color": "",
+  "border_width": 0.08,
+  "border_mode": 0,
+  "style_name": "",
+  "text_color": "#FFFFFF",
+  "text_alpha": 1,
+  "font_name": "",
+  "font_title": "none",
+  "font_size": 15,
+  "font_path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7182475114410152450/1c0dc86e1477e6cf7e28cf5ce91a9ad5/tmpsequel100wide-75.ttf",
+  "font_id": "",
+  "font_resource_id": "7182475114410152450",
+  "initial_scale": 1,
+  "font_url": "",
+  "typesetting": 0,
+  "alignment": 1,
+  "line_feed": 1,
+  "use_effect_default_color": true,
+  "is_rich_text": false,
+  "shape_clip_x": false,
+  "shape_clip_y": false,
+  "ktv_color": "",
+  "text_to_audio_ids": [],
+  "bold_width": 0,
+  "italic_degree": 0,
+  "underline": false,
+  "underline_width": 0.05,
+  "underline_offset": 0.22,
+  "sub_type": 0,
+  "check_flag": 7,
+  "text_size": 30,
+  "font_category_name": "",
+  "font_source_platform": 1,
+  "font_third_resource_id": "",
+  "font_category_id": "",
+  "add_type": 0,
+  "operation_type": 0,
+  "recognize_type": 0,
+  "fonts": [
+   {
+    "id": "E493A4B4-E651-41bf-8954-7D9EDC3E86F5",
+    "resource_id": "7182475114410152450",
+    "third_resource_id": "",
+    "category_id": "",
+    "category_name": "",
+    "source_platform": 1,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7182475114410152450/1c0dc86e1477e6cf7e28cf5ce91a9ad5/tmpsequel100wide-75.ttf",
+    "effect_id": "7182475114410152450",
+    "title": "sequel100wide-75",
+    "team_id": "",
+    "file_uri": "",
+    "request_id": "2026081903205933BB7F60CC361E4819DE"
+   }
+  ],
+  "background_color": "",
+  "background_alpha": 1,
+  "background_style": 0,
+  "background_round_radius": 0,
+  "background_width": 0.14,
+  "background_height": 0.14,
+  "background_vertical_offset": 0,
+  "background_horizontal_offset": 0,
+  "background_fill": "",
+  "single_char_bg_enable": false,
+  "single_char_bg_color": "",
+  "single_char_bg_alpha": 1,
+  "single_char_bg_round_radius": 0.3,
+  "single_char_bg_width": 0,
+  "single_char_bg_height": 0,
+  "single_char_bg_vertical_offset": 0,
+  "single_char_bg_horizontal_offset": 0,
+  "font_team_id": "",
+  "tts_auto_update": false,
+  "text_preset_resource_id": "",
+  "group_id": "",
+  "preset_id": "",
+  "preset_name": "",
+  "preset_category": "",
+  "preset_category_id": "",
+  "preset_index": 0,
+  "preset_has_set_alignment": false,
+  "force_apply_line_max_width": false,
+  "language": "",
+  "relevance_segment": [],
+  "original_size": [],
+  "fixed_width": -1,
+  "fixed_height": -1,
+  "autoAdaptCanvasEnabled": false,
+  "line_max_width": 0.82,
+  "oneline_cutoff": false,
+  "cutoff_postfix": "",
+  "subtitle_template_original_fontsize": 0,
+  "subtitle_keywords": null,
+  "inner_padding": -1,
+  "multi_language_current": "none",
+  "source_from": "",
+  "is_lyric_effect": false,
+  "lyric_group_id": "",
+  "lyrics_template": {
+   "resource_id": "",
+   "resource_name": "",
+   "panel": "",
+   "effect_id": "",
+   "path": "",
+   "category_id": "",
+   "category_name": "",
+   "request_id": ""
+  },
+  "is_batch_replace": false,
+  "is_words_linear": false,
+  "ssml_content": "",
+  "subtitle_keywords_config": null,
+  "sub_template_id": -1,
+  "translate_original_text": ""
+ },
+ "text_segment": {
+  "id": "1891BA20-B2CE-479d-947B-4C654A3DCD63",
+  "source_timerange": null,
+  "target_timerange": {
+   "start": 24366666,
+   "duration": 1400000
+  },
+  "render_timerange": {
+   "start": 0,
+   "duration": 0
+  },
+  "desc": "",
+  "state": 0,
+  "speed": 1,
+  "is_loop": false,
+  "is_tone_modify": false,
+  "reverse": false,
+  "intensifies_audio": false,
+  "cartoon": false,
+  "volume": 1,
+  "last_nonzero_volume": 1,
+  "clip": {
+   "scale": {
+    "x": 0.6772440020669507,
+    "y": 0.6772440020669507
+   },
+   "rotation": 0,
+   "transform": {
+    "x": 0.5426565874730023,
+    "y": 0.2992102065613609
+   },
+   "flip": {
+    "vertical": false,
+    "horizontal": false
+   },
+   "alpha": 1
+  },
+  "uniform_scale": {
+   "on": true,
+   "value": 1
+  },
+  "material_id": "9295C36A-729E-49b1-B460-548209AAF5B3",
+  "extra_material_refs": [
+   "C0292683-0E8B-4e9b-998D-8FA9F5562223"
+  ],
+  "render_index": 14000,
+  "keyframe_refs": [],
+  "enable_lut": false,
+  "enable_adjust": false,
+  "enable_hsl": false,
+  "visible": true,
+  "group_id": "",
+  "enable_color_curves": true,
+  "enable_hsl_curves": true,
+  "track_render_index": 1,
+  "hdr_settings": null,
+  "enable_color_wheels": true,
+  "track_attribute": 0,
+  "is_placeholder": false,
+  "template_id": "",
+  "enable_smart_color_adjust": false,
+  "template_scene": "default",
+  "common_keyframes": [],
+  "caption_info": null,
+  "responsive_layout": {
+   "enable": false,
+   "target_follow": "",
+   "size_layout": 0,
+   "horizontal_pos_layout": 0,
+   "vertical_pos_layout": 0
+  },
+  "enable_color_match_adjust": false,
+  "enable_color_correct_adjust": false,
+  "enable_adjust_mask": false,
+  "raw_segment_id": "",
+  "lyric_keyframes": null,
+  "enable_video_mask": true,
+  "digital_human_template_group_id": "",
+  "color_correct_alg_result": "",
+  "source": "segmentsourcenormal",
+  "enable_mask_stroke": false,
+  "enable_mask_shadow": false,
+  "enable_color_adjust_pro": false,
+  "segment_color_tag": ""
+ },
+ "audio_material": {
+  "id": "0F05DA63-60CA-46af-B63B-AC73913F97ED",
+  "unique_id": "",
+  "type": "extract_music",
+  "name": "nastelbom-ad-ad-ads-471453.mp3",
+  "duration": 148566666,
+  "path": "C:/Users/asus/Downloads/nastelbom-ad-ad-ads-471453.mp3",
+  "category_name": "local",
+  "wave_points": [],
+  "music_id": "e8c6692d-2f31-4e42-9ed0-6992b454c143",
+  "app_id": 0,
+  "text_id": "",
+  "tone_type": "",
+  "source_platform": 0,
+  "video_id": "",
+  "effect_id": "",
+  "resource_id": "",
+  "third_resource_id": "",
+  "category_id": "",
+  "intensifies_path": "",
+  "formula_id": "",
+  "check_flag": 1,
+  "team_id": "",
+  "local_material_id": "86ebbec4-6481-4ae8-b70f-65d2ba4e7628",
+  "tone_speaker": "",
+  "mock_tone_speaker": "",
+  "tone_effect_id": "",
+  "tone_effect_name": "",
+  "tone_platform": "",
+  "cloned_model_type": "",
+  "tone_category_id": "",
+  "tone_category_name": "",
+  "tone_second_category_id": "",
+  "tone_second_category_name": "",
+  "tone_emotion_name_key": "",
+  "tone_emotion_style": "",
+  "tone_emotion_role": "",
+  "tone_emotion_selection": "",
+  "tone_emotion_scale": 0,
+  "moyin_emotion": "",
+  "request_id": "",
+  "query": "",
+  "search_id": "",
+  "sound_separate_type": "",
+  "is_text_edit_overdub": false,
+  "is_ugc": false,
+  "is_ai_clone_tone": false,
+  "is_ai_clone_tone_post": false,
+  "source_from": "",
+  "copyright_limit_type": "none",
+  "aigc_history_id": "",
+  "aigc_item_id": "",
+  "music_source": "",
+  "pgc_id": "",
+  "pgc_name": "",
+  "similiar_music_info": {
+   "original_song_id": "",
+   "original_song_name": ""
+  },
+  "ai_music_type": 0,
+  "ai_music_enter_from": "",
+  "lyric_type": 0,
+  "tts_task_id": "",
+  "tts_generate_scene": "",
+  "ai_music_generate_scene": 0,
+  "tts_benefit_info": {
+   "benefit_type": "none",
+   "benefit_log_id": "",
+   "benefit_log_extra": "",
+   "benefit_amount": -1
+  }
+ },
+ "audio_segment": {
+  "id": "DDE46BD8-7D72-4de3-BC2B-9D18B692E051",
+  "source_timerange": {
+   "start": 0,
+   "duration": 40666666
+  },
+  "target_timerange": {
+   "start": 0,
+   "duration": 40666666
+  },
+  "render_timerange": {
+   "start": 0,
+   "duration": 0
+  },
+  "desc": "",
+  "state": 0,
+  "speed": 1,
+  "is_loop": false,
+  "is_tone_modify": false,
+  "reverse": false,
+  "intensifies_audio": false,
+  "cartoon": false,
+  "volume": 0.2191014140844345,
+  "last_nonzero_volume": 1,
+  "clip": null,
+  "uniform_scale": null,
+  "material_id": "0F05DA63-60CA-46af-B63B-AC73913F97ED",
+  "extra_material_refs": [
+   "86A14824-29FE-4a54-BEC1-DAE15D80825B",
+   "5880FD58-DFB9-49dd-A444-B3EA54798DE0",
+   "8CF898B9-C5C4-44ae-AF25-45A8041D516A",
+   "0391061A-BB80-4702-BB24-71F624D1C2C6",
+   "861FACB5-300B-40d2-8882-E342D04F6A0F",
+   "F2EF410D-8EB1-4a82-B369-B1045792C3B8"
+  ],
+  "render_index": 0,
+  "keyframe_refs": [],
+  "enable_lut": false,
+  "enable_adjust": false,
+  "enable_hsl": false,
+  "visible": true,
+  "group_id": "",
+  "enable_color_curves": true,
+  "enable_hsl_curves": true,
+  "track_render_index": 4,
+  "hdr_settings": null,
+  "enable_color_wheels": true,
+  "track_attribute": 0,
+  "is_placeholder": false,
+  "template_id": "",
+  "enable_smart_color_adjust": false,
+  "template_scene": "default",
+  "common_keyframes": [],
+  "caption_info": null,
+  "responsive_layout": {
+   "enable": false,
+   "target_follow": "",
+   "size_layout": 0,
+   "horizontal_pos_layout": 0,
+   "vertical_pos_layout": 0
+  },
+  "enable_color_match_adjust": false,
+  "enable_color_correct_adjust": false,
+  "enable_adjust_mask": false,
+  "raw_segment_id": "",
+  "lyric_keyframes": null,
+  "enable_video_mask": true,
+  "digital_human_template_group_id": "",
+  "color_correct_alg_result": "",
+  "source": "segmentsourcenormal",
+  "enable_mask_stroke": false,
+  "enable_mask_shadow": false,
+  "enable_color_adjust_pro": false,
+  "segment_color_tag": ""
+ },
+ "music_material": {
+  "id": "D89BAE43-AB35-4ee7-AFD8-D399FBBBBF72",
+  "unique_id": "",
+  "type": "music",
+  "name": "Notification sound / Messenger / Glockenspiel / Single note / G5(1136790)",
+  "duration": 3633333,
+  "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/31394bed5b1765b37498a762aa0c69b6.mp3",
+  "category_name": "search_audio",
+  "wave_points": [],
+  "music_id": "7031572907893458945",
+  "app_id": 1775,
+  "text_id": "",
+  "tone_type": "",
+  "source_platform": 0,
+  "video_id": "",
+  "effect_id": "",
+  "resource_id": "",
+  "third_resource_id": "",
+  "category_id": "0",
+  "intensifies_path": "",
+  "formula_id": "",
+  "check_flag": 1,
+  "team_id": "",
+  "local_material_id": "",
+  "tone_speaker": "",
+  "mock_tone_speaker": "",
+  "tone_effect_id": "",
+  "tone_effect_name": "",
+  "tone_platform": "",
+  "cloned_model_type": "",
+  "tone_category_id": "",
+  "tone_category_name": "",
+  "tone_second_category_id": "",
+  "tone_second_category_name": "",
+  "tone_emotion_name_key": "",
+  "tone_emotion_style": "",
+  "tone_emotion_role": "",
+  "tone_emotion_selection": "",
+  "tone_emotion_scale": 0,
+  "moyin_emotion": "",
+  "request_id": "",
+  "query": "",
+  "search_id": "",
+  "sound_separate_type": "",
+  "is_text_edit_overdub": false,
+  "is_ugc": false,
+  "is_ai_clone_tone": false,
+  "is_ai_clone_tone_post": false,
+  "source_from": "",
+  "copyright_limit_type": "none",
+  "aigc_history_id": "",
+  "aigc_item_id": "",
+  "music_source": "",
+  "pgc_id": "",
+  "pgc_name": "",
+  "similiar_music_info": {
+   "original_song_id": "",
+   "original_song_name": ""
+  },
+  "ai_music_type": 0,
+  "ai_music_enter_from": "",
+  "lyric_type": 0,
+  "tts_task_id": "",
+  "tts_generate_scene": "",
+  "ai_music_generate_scene": 0,
+  "tts_benefit_info": {
+   "benefit_type": "none",
+   "benefit_log_id": "",
+   "benefit_log_extra": "",
+   "benefit_amount": -1
+  }
+ },
+ "extras": {
+  "speeds": {
+   "id": "D842AA67-8C2D-4240-9EC9-076F2FA9C998",
+   "type": "speed",
+   "mode": 0,
+   "speed": 1,
+   "curve_speed": null
+  },
+  "placeholder_infos": {
+   "id": "1B03A74F-9AF6-4d3a-ACAB-9E906505E519",
+   "type": "placeholder_info",
+   "meta_type": "none",
+   "res_path": "",
+   "res_text": "",
+   "error_path": "",
+   "error_text": ""
+  },
+  "canvases": {
+   "id": "1931AB5D-2C0F-45ad-B7D9-AB8AE280D124",
+   "type": "canvas_color",
+   "color": "",
+   "blur": 0,
+   "image": "",
+   "album_image": "",
+   "image_id": "",
+   "image_name": "",
+   "source_platform": 0,
+   "team_id": ""
+  },
+  "sound_channel_mappings": {
+   "id": "0FBB37AC-F1DC-4728-8BFB-13B6870D2839",
+   "type": "",
+   "audio_channel_mapping": 0,
+   "is_config_open": false
+  },
+  "material_colors": {
+   "id": "8CD82214-4555-4156-976B-49438705BE6A",
+   "is_color_clip": false,
+   "is_gradient": false,
+   "solid_color": "",
+   "gradient_colors": [],
+   "gradient_percents": [],
+   "gradient_angle": 90,
+   "width": 0,
+   "height": 0
+  },
+  "vocal_separations": {
+   "id": "DFB129C8-10F7-451b-AFAF-51EA33BDB472",
+   "type": "vocal_separation",
+   "choice": 0,
+   "removed_sounds": [],
+   "time_range": null,
+   "production_path": "",
+   "final_algorithm": "",
+   "enter_from": ""
+  },
+  "beats": {
+   "id": "58645BDD-8BE0-4b34-9B64-5BCF179573C3",
+   "type": "beats",
+   "enable_ai_beats": false,
+   "gear": 404,
+   "gear_count": 0,
+   "mode": 404,
+   "user_beats": [],
+   "user_delete_ai_beats": null,
+   "ai_beats": {
+    "melody_url": "",
+    "melody_path": "",
+    "beats_url": "",
+    "beats_path": "",
+    "melody_percents": [
+     0
+    ],
+    "beat_speed_infos": []
+   }
+  },
+  "loudnesses": {
+   "id": "7AF07BA6-6920-466a-A5F4-7D4DED20E592",
+   "enable": false,
+   "time_range": null,
+   "file_id": "",
+   "target_loudness": 0,
+   "loudness_param": null
+  }
+ },
+ "animations": {
+  "7255561078258536962": {
+   "name": "Blur to the Left II",
+   "type": "in",
+   "anim": {
+    "id": "7255561078258536962",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7255561078258536962/6b3c54ef781f16f20204d766b799abec",
+    "platform": "all",
+    "resource_id": "7255561078258536962",
+    "third_resource_id": "7255561078258536962",
+    "source_platform": 1,
+    "name": "Blur to the Left II",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202608190353298F99757F9E328D8217F8"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "6724919382104871427": {
+   "name": "Fade Out",
+   "type": "out",
+   "anim": {
+    "id": "6724919382104871427",
+    "type": "out",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/6724919382104871427/6ecc8fa1d956c3e14c84cdc0679982a9",
+    "platform": "all",
+    "resource_id": "6724919382104871427",
+    "third_resource_id": "6724919382104871427",
+    "source_platform": 1,
+    "name": "Fade Out",
+    "category_id": "chuchang",
+    "category_name": "text",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": {
+     "direction": "",
+     "anim_mode": "all"
+    },
+    "request_id": "202608190353298F99757F9E328D8217F8"
+   },
+   "used_on": {
+    "text": 88
+   },
+   "cached": true
+  },
+  "7149113362096329217": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 1000000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7149113362096329217/6f8e0a5cd98c44b79f9ec09b0b913059",
+    "platform": "all",
+    "resource_id": "7149113362096329217",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 32
+   },
+   "cached": false
+  },
+  "7179946660036874754": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 1000000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7179946660036874754/74b76957cbe00ce0f5b5eee01f2c9170",
+    "platform": "all",
+    "resource_id": "7179946660036874754",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 32
+   },
+   "cached": false
+  },
+  "6798320902548230669": {
+   "name": "Fade Out",
+   "type": "out",
+   "anim": {
+    "id": "6798320902548230669",
+    "type": "out",
+    "start": 1185000,
+    "duration": 300000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/6798320902548230669/c6f05ce62355b537be762550040bfc08",
+    "platform": "all",
+    "resource_id": "6798320902548230669",
+    "third_resource_id": "6798320902548230669",
+    "source_platform": 1,
+    "name": "Fade Out",
+    "category_id": "2037708283",
+    "category_name": "Trending-2",
+    "panel": "video",
+    "material_type": "video",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "video": 129
+   },
+   "cached": true
+  },
+  "7428456013868616965": {
+   "name": "Bounce In",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7428456013868616965/83cd5b21c6a1cea2d11aac09bf328d1b",
+    "platform": "all",
+    "resource_id": "7428456013868616965",
+    "third_resource_id": "6887766069587481090",
+    "source_platform": 1,
+    "name": "Bounce In",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260823012002CBAB2BF8B4303284ED4D"
+   },
+   "used_on": {
+    "sticker": 11,
+    "text": 1
+   },
+   "cached": true
+  },
+  "7428455170478066950": {
+   "name": "Fade Out",
+   "type": "out",
+   "anim": {
+    "id": "",
+    "type": "out",
+    "start": 0,
+    "duration": 100000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7428455170478066950/0bf352f88c4880bb99bd8b7de81275e9",
+    "platform": "all",
+    "resource_id": "7428455170478066950",
+    "third_resource_id": "6724919382104871427",
+    "source_platform": 1,
+    "name": "Fade Out",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260823012002CBAB2BF8B4303284ED4D"
+   },
+   "used_on": {
+    "sticker": 68
+   },
+   "cached": false
+  },
+  "7428455170477968646": {
+   "name": "Fade In",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 266666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7428455170477968646/4bea74f5c77cea78a4634a554d960a3a",
+    "platform": "all",
+    "resource_id": "7428455170477968646",
+    "third_resource_id": "6724916044072227332",
+    "source_platform": 1,
+    "name": "Fade In",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260823012002CBAB2BF8B4303284ED4D"
+   },
+   "used_on": {
+    "sticker": 60
+   },
+   "cached": false
+  },
+  "7210980292243231233": {
+   "name": "Typewriter",
+   "type": "in",
+   "anim": {
+    "id": "7210980292243231233",
+    "type": "in",
+    "start": 0,
+    "duration": 333333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7210980292243231233/6828d67634e66ace1e76c4eb7cc2f8e6",
+    "platform": "all",
+    "resource_id": "7210980292243231233",
+    "third_resource_id": "7210980292243231233",
+    "source_platform": 1,
+    "name": "Typewriter",
+    "category_id": "ruchang",
+    "category_name": "text",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260822172520000000000000653512E"
+   },
+   "used_on": {
+    "text": 510
+   },
+   "cached": true
+  },
+  "6798320778182922760": {
+   "name": "Fade In",
+   "type": "in",
+   "anim": {
+    "id": "6798320778182922760",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/6798320778182922760/883ad04bd79b502aaa55b5d9b87175ea",
+    "platform": "all",
+    "resource_id": "6798320778182922760",
+    "third_resource_id": "6798320778182922760",
+    "source_platform": 1,
+    "name": "Fade In",
+    "category_id": "2037708273",
+    "category_name": "Trending-1",
+    "panel": "video",
+    "material_type": "video",
+    "anim_adjust_params": null,
+    "request_id": "202608250232296DEB317EDD2E2314786F"
+   },
+   "used_on": {
+    "video": 133
+   },
+   "cached": true
+  },
+  "7597700024860036353": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 1000000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7597700024860036353/c34f60e168c43b98ff660928f131d259",
+    "platform": "all",
+    "resource_id": "7597700024860036353",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7600285906989239570": {
+   "name": "Signal Scrub",
+   "type": "in",
+   "anim": {
+    "id": "7600285906989239570",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7600285906989239570/836c25027fdd5f094d5bcde6c2074373",
+    "platform": "all",
+    "resource_id": "7600285906989239570",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Signal Scrub",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202609301714145B112DD17BEAEB26EFF8"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7289356246623195649": {
+   "name": "",
+   "type": "caption",
+   "anim": {
+    "id": "",
+    "type": "caption",
+    "start": 0,
+    "duration": 3433333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/110456507/d62a12a386bf578a8eb03187095d7c7d",
+    "platform": "all",
+    "resource_id": "7289356246623195649",
+    "third_resource_id": "",
+    "source_platform": 0,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 60
+   },
+   "cached": true
+  },
+  "7646376382234184981": {
+   "name": "Electro Dust",
+   "type": "in",
+   "anim": {
+    "id": "7646376382234184981",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7646376382234184981/9a3945aa3f254684de36e51ee2893558",
+    "platform": "all",
+    "resource_id": "7646376382234184981",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Electro Dust",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026101603133982A4EA3F05772D6D70E2"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7594777244699086081": {
+   "name": "Step By Step",
+   "type": "in",
+   "anim": {
+    "id": "7594777244699086081",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7594777244699086081/6dc9dc2b13ffca65266ce15f9655abd8",
+    "platform": "all",
+    "resource_id": "7594777244699086081",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Step By Step",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026101603133982A4EA3F05772D6D70E2"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7324601334575927809": {
+   "name": "",
+   "type": "caption",
+   "anim": {
+    "id": "",
+    "type": "caption",
+    "start": 0,
+    "duration": 2200000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/179739250/398bc989a79105528f471b4bb6dadfb6",
+    "platform": "all",
+    "resource_id": "7324601334575927809",
+    "third_resource_id": "",
+    "source_platform": 0,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 138
+   },
+   "cached": false
+  },
+  "7663788969452211474": {
+   "name": "Flame Puff",
+   "type": "in",
+   "anim": {
+    "id": "7663788969452211474",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7663788969452211474/e595c0f554e31b9c9003ff48c752903d",
+    "platform": "all",
+    "resource_id": "7663788969452211474",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Flame Puff",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260901005952DE29B07A46F03A3914D7"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7642251042440252692": {
+   "name": "Blurred Text",
+   "type": "in",
+   "anim": {
+    "id": "7642251042440252692",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7642251042440252692/c19618660cba5ddcb280081066828217",
+    "platform": "all",
+    "resource_id": "7642251042440252692",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Blurred Text",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260901005952DE29B07A46F03A3914D7"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7314651687149376001": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 866666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7314651687149376001/c21d4019453137cd76e0d847d5d8af96",
+    "platform": "all",
+    "resource_id": "7314651687149376001",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": false
+  },
+  "7428457240924916997": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 600000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7428457240924916997/099e15aa3f318f66da1ba940bdb63066",
+    "platform": "all",
+    "resource_id": "7428457240924916997",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7428455170469580037": {
+   "name": "Zoom In",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7428455170469580037/071cf853ef46c1a727b652f24569a921",
+    "platform": "all",
+    "resource_id": "7428455170469580037",
+    "third_resource_id": "6724919499042066958",
+    "source_platform": 1,
+    "name": "Zoom In",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026090100445042283973498237E7E802"
+   },
+   "used_on": {
+    "sticker": 4,
+    "text": 1
+   },
+   "cached": true
+  },
+  "7532793713785916673": {
+   "name": "Shiny Slide-in",
+   "type": "in",
+   "anim": {
+    "id": "7532793713785916673",
+    "type": "in",
+    "start": 0,
+    "duration": 499999,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7532793713785916673/4299dd04b887b523207bab1affc5b0de",
+    "platform": "all",
+    "resource_id": "7532793713785916673",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Shiny Slide-in",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260901005952DE29B07A46F03A3914D7"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7648938116048375061": {
+   "name": "Gradual Reveal",
+   "type": "in",
+   "anim": {
+    "id": "7648938116048375061",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7648938116048375061/1f621a13b2ae77ef9429c12ce9e61468",
+    "platform": "all",
+    "resource_id": "7648938116048375061",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Gradual Reveal",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20261031032846869DA99330E40153CAB1"
+   },
+   "used_on": {
+    "text": 5
+   },
+   "cached": true
+  },
+  "7179946547637916161": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7179946547637916161/1b4252371c04e3f1c9a07be1756e5d95",
+    "platform": "all",
+    "resource_id": "7179946547637916161",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7179947272375898625": {
+   "name": "",
+   "type": "loop",
+   "anim": {
+    "id": "",
+    "type": "loop",
+    "start": 0,
+    "duration": 700000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7179947272375898625/a01312bfd144f6ba99f9f2dff63172d4",
+    "platform": "all",
+    "resource_id": "7179947272375898625",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 4
+   },
+   "cached": false
+  },
+  "7179946674280731137": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 600000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7179946674280731137/c085078da406fe5db026d6f6dd238552",
+    "platform": "all",
+    "resource_id": "7179946674280731137",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7179946512158298626": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 600000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7179946512158298626/9b275f67faa4fe32a35847c69dfe5e31",
+    "platform": "all",
+    "resource_id": "7179946512158298626",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 10
+   },
+   "cached": false
+  },
+  "7563492973011307793": {
+   "name": "Bubbly Pop-up",
+   "type": "in",
+   "anim": {
+    "id": "7563492973011307793",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7563492973011307793/1c36c359b5f9de0d992c69a5908073ee",
+    "platform": "all",
+    "resource_id": "7563492973011307793",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Bubbly Pop-up",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026072400513671A090F7C96461312D24"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7626727293657910549": {
+   "name": "Trembling In",
+   "type": "in",
+   "anim": {
+    "id": "7626727293657910549",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7626727293657910549/9aeb4eae4f52bb960a24c752a435f39f",
+    "platform": "all",
+    "resource_id": "7626727293657910549",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Trembling In",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026072400513671A090F7C96461312D24"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7428456013868584197": {
+   "name": "Shake 1",
+   "type": "loop",
+   "anim": {
+    "id": "",
+    "type": "loop",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7428456013868584197/b29769c8b279e4828effd476c5726f5f",
+    "platform": "all",
+    "resource_id": "7428456013868584197",
+    "third_resource_id": "6724920869363126795",
+    "source_platform": 1,
+    "name": "Shake 1",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026072400515814A40A6F50DCD9541D2A"
+   },
+   "used_on": {
+    "sticker": 1
+   },
+   "cached": false
+  },
+  "7361367861433995792": {
+   "name": "",
+   "type": "caption",
+   "anim": {
+    "id": "",
+    "type": "caption",
+    "start": 0,
+    "duration": 1533333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/290658528/37ce5f7289f747211be97d9546dc751b",
+    "platform": "all",
+    "resource_id": "7361367861433995792",
+    "third_resource_id": "",
+    "source_platform": 0,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 235
+   },
+   "cached": false
+  },
+  "7294461978301436418": {
+   "name": "Black Hole",
+   "type": "in",
+   "anim": {
+    "id": "7294461978301436418",
+    "type": "in",
+    "start": 0,
+    "duration": 333333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7294461978301436418/375099f3d8cd9333cf96fa58fefc87ee",
+    "platform": "all",
+    "resource_id": "7294461978301436418",
+    "third_resource_id": "7294461978301436418",
+    "source_platform": 1,
+    "name": "Black Hole",
+    "category_id": "2037708273",
+    "category_name": "Trending-1",
+    "panel": "video",
+    "material_type": "video",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "video": 1
+   },
+   "cached": false
+  },
+  "7646371244257955092": {
+   "name": "Fade In",
+   "type": "in",
+   "anim": {
+    "id": "7646371244257955092",
+    "type": "in",
+    "start": 0,
+    "duration": 166666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7646371244257955092/e6884981e7717e8d2951063ad1eadbdb",
+    "platform": "all",
+    "resource_id": "7646371244257955092",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Fade In",
+    "category_id": "ruchang",
+    "category_name": "text",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202610031516040000000000002733DA8"
+   },
+   "used_on": {
+    "text": 10
+   },
+   "cached": true
+  },
+  "7545724207062076673": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7545724207062076673/b3416ddb3a46e4ab5949302e5d892838",
+    "platform": "all",
+    "resource_id": "7545724207062076673",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 6
+   },
+   "cached": true
+  },
+  "7597674120737787153": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7597674120737787153/e1b11e0bcee71c216fb13b12a5a380cf",
+    "platform": "all",
+    "resource_id": "7597674120737787153",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 6
+   },
+   "cached": true
+  },
+  "7597486999364242689": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7597486999364242689/5e89c787fbbc2a83c6607357202f8912",
+    "platform": "all",
+    "resource_id": "7597486999364242689",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 6
+   },
+   "cached": true
+  },
+  "7428455252141165829": {
+   "name": "",
+   "type": "loop",
+   "anim": {
+    "id": "",
+    "type": "loop",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7428455252141165829/c2af2209ab1e15cc17c283130b3900f1",
+    "platform": "all",
+    "resource_id": "7428455252141165829",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 6
+   },
+   "cached": true
+  },
+  "7661988451335572744": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 688888,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7661988451335572744/2f337ae38b2fbbb6825161da00d02e37",
+    "platform": "all",
+    "resource_id": "7661988451335572744",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": true
+  },
+  "7650330923568876821": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 700000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7650330923568876821/9d09b57bfb39a3be2c36ad5874c89942",
+    "platform": "all",
+    "resource_id": "7650330923568876821",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 6
+   },
+   "cached": true
+  },
+  "7646369923312389397": {
+   "name": "Fade In",
+   "type": "in",
+   "anim": {
+    "id": "7646369923312389397",
+    "type": "in",
+    "start": 0,
+    "duration": 300000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7646369923312389397/03a96ba8ae5484bb3ae1e9bac4f2142c",
+    "platform": "all",
+    "resource_id": "7646369923312389397",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Fade In",
+    "category_id": "ruchang",
+    "category_name": "text",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202609291919090000000000006132CD7"
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": true
+  },
+  "6724916044072227332": {
+   "name": "Fade In",
+   "type": "in",
+   "anim": {
+    "id": "6724916044072227332",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/6724916044072227332/3ed092e2c06abae5644f5f12014e3020",
+    "platform": "all",
+    "resource_id": "6724916044072227332",
+    "third_resource_id": "6724916044072227332",
+    "source_platform": 1,
+    "name": "Fade In",
+    "category_id": "ruchang",
+    "category_name": "text",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202609291919090000000000006132CD7"
+   },
+   "used_on": {
+    "text": 15
+   },
+   "cached": true
+  },
+  "6724920636403094028": {
+   "name": "Type 2",
+   "type": "in",
+   "anim": {
+    "id": "6724920636403094028",
+    "type": "in",
+    "start": 0,
+    "duration": 933333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/6724920636403094028/8bd0b8cec591907fc2a56682d8e14274",
+    "platform": "all",
+    "resource_id": "6724920636403094028",
+    "third_resource_id": "6724920636403094028",
+    "source_platform": 1,
+    "name": "Type 2",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026062921265003574FB101CFB1C2C003"
+   },
+   "used_on": {
+    "text": 4
+   },
+   "cached": false
+  },
+  "7145435525799744002": {
+   "name": "Random Typewriter",
+   "type": "in",
+   "anim": {
+    "id": "7145435525799744002",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7145435525799744002/49221bfc90329890d81c3612e6222a51",
+    "platform": "all",
+    "resource_id": "7145435525799744002",
+    "third_resource_id": "7145435525799744002",
+    "source_platform": 1,
+    "name": "Random Typewriter",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026062921265003574FB101CFB1C2C003"
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": false
+  },
+  "6798332584276267527": {
+   "name": "Zoom Out",
+   "type": "in",
+   "anim": {
+    "id": "6798332584276267527",
+    "type": "in",
+    "start": 0,
+    "duration": 266666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/6798332584276267527/0c736f993d36a7b1ef00cc73d2ba656f",
+    "platform": "all",
+    "resource_id": "6798332584276267527",
+    "third_resource_id": "6798332584276267527",
+    "source_platform": 1,
+    "name": "Zoom Out",
+    "category_id": "2037708273",
+    "category_name": "Trending-1",
+    "panel": "video",
+    "material_type": "video",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "video": 10
+   },
+   "cached": false
+  },
+  "7615638211167145230": {
+   "name": "Frequency Decoder",
+   "type": "in",
+   "anim": {
+    "id": "7615638211167145230",
+    "type": "in",
+    "start": 0,
+    "duration": 1400000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7615638211167145230/2dee187e26854b9c24a8ee7f723bdc08",
+    "platform": "all",
+    "resource_id": "7615638211167145230",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Frequency Decoder",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026062921265003574FB101CFB1C2C003"
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": false
+  },
+  "7616617125775412487": {
+   "name": "Blurry Echo",
+   "type": "in",
+   "anim": {
+    "id": "7616617125775412487",
+    "type": "in",
+    "start": 0,
+    "duration": 533333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7616617125775412487/063ef4e03c613c5b148467f5d6f57722",
+    "platform": "all",
+    "resource_id": "7616617125775412487",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Blurry Echo",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260629231636E2624F1A499282BDE1DC"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7616666973925149969": {
+   "name": "Shadow Color Change",
+   "type": "in",
+   "anim": {
+    "id": "7616666973925149969",
+    "type": "in",
+    "start": 0,
+    "duration": 900000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7616666973925149969/7b8dce73dbc6c26071a3fc96639d2e6a",
+    "platform": "all",
+    "resource_id": "7616666973925149969",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Shadow Color Change",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260629231636E2624F1A499282BDE1DC"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7504571037082717456": {
+   "name": "Sweeping Strobe",
+   "type": "in",
+   "anim": {
+    "id": "7504571037082717456",
+    "type": "in",
+    "start": 0,
+    "duration": 1400000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7504571037082717456/782b5558314ca5337d3621c661c54f72",
+    "platform": "all",
+    "resource_id": "7504571037082717456",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Sweeping Strobe",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026062921265003574FB101CFB1C2C003"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7302338783930749442": {
+   "name": "Horizontal Blur",
+   "type": "in",
+   "anim": {
+    "id": "7302338783930749442",
+    "type": "in",
+    "start": 0,
+    "duration": 166666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7302338783930749442/b8b953ad94b16c47601af887d4ccc8c9",
+    "platform": "all",
+    "resource_id": "7302338783930749442",
+    "third_resource_id": "7302338783930749442",
+    "source_platform": 1,
+    "name": "Horizontal Blur",
+    "category_id": "2037708273",
+    "category_name": "Trending-1",
+    "panel": "video",
+    "material_type": "video",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "video": 2
+   },
+   "cached": false
+  },
+  "7625987985649208594": {
+   "name": "Curved Slide",
+   "type": "in",
+   "anim": {
+    "id": "7625987985649208594",
+    "type": "in",
+    "start": 0,
+    "duration": 900000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7625987985649208594/b2ecd3ef733a3b1177f5ff8064cbab69",
+    "platform": "all",
+    "resource_id": "7625987985649208594",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Curved Slide",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20261001010327A1A7696B6970ED57BA7C"
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": true
+  },
+  "7599950627698986258": {
+   "name": "Soaked Out",
+   "type": "out",
+   "anim": {
+    "id": "7599950627698986258",
+    "type": "out",
+    "start": 0,
+    "duration": 333333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7599950627698986258/f655698632290f0ab54bcabfe2e3ad4f",
+    "platform": "all",
+    "resource_id": "7599950627698986258",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Soaked Out",
+    "category_id": "chuchang",
+    "category_name": "Out",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20261001010327A1A7696B6970ED57BA7C"
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": true
+  },
+  "7621229985331793205": {
+   "name": "Smoke Stream",
+   "type": "in",
+   "anim": {
+    "id": "7621229985331793205",
+    "type": "in",
+    "start": 0,
+    "duration": 700000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7621229985331793205/c649301379b6311acfefebb94df89bba",
+    "platform": "all",
+    "resource_id": "7621229985331793205",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Smoke Stream",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202607270251561BABE6BA23306499835E"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7646375207275367698": {
+   "name": "Fade Glow",
+   "type": "in",
+   "anim": {
+    "id": "7646375207275367698",
+    "type": "in",
+    "start": 0,
+    "duration": 699999,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7646375207275367698/ef4a087b15e2be7e92ac7fd4bed6b410",
+    "platform": "all",
+    "resource_id": "7646375207275367698",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Fade Glow",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202607270251561BABE6BA23306499835E"
+   },
+   "used_on": {
+    "text": 5
+   },
+   "cached": false
+  },
+  "7637491979017866517": {
+   "name": "Twin Flame",
+   "type": "in",
+   "anim": {
+    "id": "7637491979017866517",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7637491979017866517/7f024ec50a61fffc65db47287efcefb2",
+    "platform": "all",
+    "resource_id": "7637491979017866517",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Twin Flame",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202607270251561BABE6BA23306499835E"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7668675524088188174": {
+   "name": "Flame Gush",
+   "type": "in",
+   "anim": {
+    "id": "7668675524088188174",
+    "type": "in",
+    "start": 0,
+    "duration": 533333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7668675524088188174/15a0db196f33f93460e2c50d2a3de354",
+    "platform": "all",
+    "resource_id": "7668675524088188174",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Flame Gush",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202608062008104D76E0959FFF4F985CDF"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7298602064530117122": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 1333333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7298602064530117122/04055d0e0520eb74c7047073e98fcf9a",
+    "platform": "all",
+    "resource_id": "7298602064530117122",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 3
+   },
+   "cached": false
+  },
+  "7135040682032370178": {
+   "name": "",
+   "type": "caption",
+   "anim": {
+    "id": "",
+    "type": "caption",
+    "start": 0,
+    "duration": 1533333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/3512841/dfb92a5644349505d41d37e6ec03f53c",
+    "platform": "all",
+    "resource_id": "7135040682032370178",
+    "third_resource_id": "",
+    "source_platform": 0,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 154
+   },
+   "cached": true
+  },
+  "6724920136056181256": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/6724920136056181256/c49f75ef6e0f886e570f68a00f7c1312",
+    "platform": "all",
+    "resource_id": "6724920136056181256",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 8
+   },
+   "cached": false
+  },
+  "7145435431297880577": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7145435431297880577/5a78f1024ecdc9a6b69220eac58a0963",
+    "platform": "all",
+    "resource_id": "7145435431297880577",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 8
+   },
+   "cached": false
+  },
+  "7179946695986254337": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7179946695986254337/a98e7f3071050c87dd6421a148e65832",
+    "platform": "all",
+    "resource_id": "7179946695986254337",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 32
+   },
+   "cached": false
+  },
+  "7527882038951595265": {
+   "name": "Ocean Bounce",
+   "type": "in",
+   "anim": {
+    "id": "7527882038951595265",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7527882038951595265/1d14be5fbabe63597a118d1f8f633f53",
+    "platform": "all",
+    "resource_id": "7527882038951595265",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Ocean Bounce",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20261002165509B5876C45D818F906F11B"
+   },
+   "used_on": {
+    "text": 3
+   },
+   "cached": false
+  },
+  "6724920249654710791": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/6724920249654710791/c539514fc398e05a6cf4d7c196f78305",
+    "platform": "all",
+    "resource_id": "6724920249654710791",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "6790246693674684942": {
+   "name": "",
+   "type": "loop",
+   "anim": {
+    "id": "",
+    "type": "loop",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/6790246693674684942/383dabd75d7fe7985d990ebb34d63732",
+    "platform": "all",
+    "resource_id": "6790246693674684942",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7428457240924818693": {
+   "name": "",
+   "type": "loop",
+   "anim": {
+    "id": "",
+    "type": "loop",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7428457240924818693/36f4a1cf0842abefac17ae7fab35d6b1",
+    "platform": "all",
+    "resource_id": "7428457240924818693",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 1,
+    "sticker": 1
+   },
+   "cached": true
+  },
+  "7535766535105793281": {
+   "name": "Prairie Fire",
+   "type": "in",
+   "anim": {
+    "id": "7535766535105793281",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7535766535105793281/56d02c1fc850b33cbe6ceab1fceacd7d",
+    "platform": "all",
+    "resource_id": "7535766535105793281",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Prairie Fire",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "2026100217473409DAFBEA29BF3368BF62"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7581961855933975809": {
+   "name": "Amplified Rant",
+   "type": "in",
+   "anim": {
+    "id": "7581961855933975809",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7581961855933975809/94789a534e1a8d56b7387d3969887f30",
+    "platform": "all",
+    "resource_id": "7581961855933975809",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Amplified Rant",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20261002165509B5876C45D818F906F11B"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7544820822528068865": {
+   "name": "In Scanner",
+   "type": "in",
+   "anim": {
+    "id": "7544820822528068865",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7544820822528068865/f1277609c27700551d301e041b21e561",
+    "platform": "all",
+    "resource_id": "7544820822528068865",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "In Scanner",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20261002165509B5876C45D818F906F11B"
+   },
+   "used_on": {
+    "text": 3
+   },
+   "cached": false
+  },
+  "7149113444279521793": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 800000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7149113444279521793/b4119cf3405c71bc556e1c5562e22d01",
+    "platform": "all",
+    "resource_id": "7149113444279521793",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 8
+   },
+   "cached": false
+  },
+  "7179947312645411330": {
+   "name": "",
+   "type": "loop",
+   "anim": {
+    "id": "",
+    "type": "loop",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7179947312645411330/e43170c16bc6becbdfd7a60f1872fed7",
+    "platform": "all",
+    "resource_id": "7179947312645411330",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "6909707735827223042": {
+   "name": "",
+   "type": "loop",
+   "anim": {
+    "id": "",
+    "type": "loop",
+    "start": 0,
+    "duration": 1400000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/6909707735827223042/ccd09fe5c4969b5f195099a8ec2ff418",
+    "platform": "all",
+    "resource_id": "6909707735827223042",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7131932337893282306": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7131932337893282306/cdf2df541dea807f4bcb29ede73dd766",
+    "platform": "all",
+    "resource_id": "7131932337893282306",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": false
+  },
+  "7179946641430942209": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7179946641430942209/c275ad7a1b46041a859e9b683c4bf17d",
+    "platform": "all",
+    "resource_id": "7179946641430942209",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": false
+  },
+  "7642240902005558548": {
+   "name": "Fade In",
+   "type": "in",
+   "anim": {
+    "id": "7642240902005558548",
+    "type": "in",
+    "start": 0,
+    "duration": 800000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7642240902005558548/f1004bd1a9edf5a824673820fd0c534a",
+    "platform": "all",
+    "resource_id": "7642240902005558548",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Fade In",
+    "category_id": "ruchang",
+    "category_name": "text",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202609021649360000000000007485CBE"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7663129551211351314": {
+   "name": "Draw Textbox",
+   "type": "in",
+   "anim": {
+    "id": "7663129551211351314",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7663129551211351314/17e9f2434b4a57f7aeb6af565225686c",
+    "platform": "all",
+    "resource_id": "7663129551211351314",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Draw Textbox",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260923043429A3A40D63DF53369F5408"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7591715953348480273": {
+   "name": "Unsteady Reveal",
+   "type": "in",
+   "anim": {
+    "id": "7591715953348480273",
+    "type": "in",
+    "start": 0,
+    "duration": 566666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7591715953348480273/6f4f2384fde0336b9bec8559a2d081c3",
+    "platform": "all",
+    "resource_id": "7591715953348480273",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Unsteady Reveal",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260814042619F6E778007480C26619D8"
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": false
+  },
+  "7646372829113371912": {
+   "name": "Text Fade",
+   "type": "out",
+   "anim": {
+    "id": "7646372829113371912",
+    "type": "out",
+    "start": 0,
+    "duration": 166666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7646372829113371912/410f94b5ea385ffc6786f56230e46865",
+    "platform": "all",
+    "resource_id": "7646372829113371912",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Text Fade",
+    "category_id": "chuchang",
+    "category_name": "text",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202608132027460000000000009818761"
+   },
+   "used_on": {
+    "text": 3
+   },
+   "cached": false
+  },
+  "7613033783671016722": {
+   "name": "Proton Rings",
+   "type": "in",
+   "anim": {
+    "id": "7613033783671016722",
+    "type": "in",
+    "start": 0,
+    "duration": 400000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7613033783671016722/601d46c807d333d727eb1b3ffef00c15",
+    "platform": "all",
+    "resource_id": "7613033783671016722",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Proton Rings",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "20260814042619F6E778007480C26619D8"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7641226884218457361": {
+   "name": "Scale By Half",
+   "type": "in",
+   "anim": {
+    "id": "7641226884218457361",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7641226884218457361/e8c302e4aa87159f1362694be95147dd",
+    "platform": "all",
+    "resource_id": "7641226884218457361",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Scale By Half",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202607242249142A09CC7DE5388A1CB071"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7646372683759848724": {
+   "name": "Script Emerge",
+   "type": "in",
+   "anim": {
+    "id": "7646372683759848724",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7646372683759848724/51197e96e2023ad55dcd65328e19b4b9",
+    "platform": "all",
+    "resource_id": "7646372683759848724",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Script Emerge",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202607242249142A09CC7DE5388A1CB071"
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": false
+  },
+  "7647062672126561557": {
+   "name": "Manifest",
+   "type": "in",
+   "anim": {
+    "id": "7647062672126561557",
+    "type": "in",
+    "start": 0,
+    "duration": 400000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7647062672126561557/ea9b2813e12440316536dbe70288ac00",
+    "platform": "all",
+    "resource_id": "7647062672126561557",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Manifest",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202607242249142A09CC7DE5388A1CB071"
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": false
+  },
+  "7662249161709849874": {
+   "name": "Slice Fade",
+   "type": "out",
+   "anim": {
+    "id": "7662249161709849874",
+    "type": "out",
+    "start": 0,
+    "duration": 233333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7662249161709849874/697c7c35b8d3f02d1f2c16a30c2d3c68",
+    "platform": "all",
+    "resource_id": "7662249161709849874",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Slice Fade",
+    "category_id": "chuchang",
+    "category_name": "Out",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202607242249142A09CC7DE5388A1CB071"
+   },
+   "used_on": {
+    "text": 3
+   },
+   "cached": false
+  },
+  "7325341322695414274": {
+   "name": "",
+   "type": "caption",
+   "anim": {
+    "id": "",
+    "type": "caption",
+    "start": 0,
+    "duration": 2900000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/194320087/25539e0a7d26a96eee61f7e0e82b8f6c",
+    "platform": "all",
+    "resource_id": "7325341322695414274",
+    "third_resource_id": "",
+    "source_platform": 0,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 5
+   },
+   "cached": false
+  },
+  "7546443834452872449": {
+   "name": "Hyper Retreat",
+   "type": "out",
+   "anim": {
+    "id": "7546443834452872449",
+    "type": "out",
+    "start": 0,
+    "duration": 466666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7546443834452872449/f579ec7ac5c00afe977dbbd9bc510368",
+    "platform": "all",
+    "resource_id": "7546443834452872449",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Hyper Retreat",
+    "category_id": "chuchang",
+    "category_name": "Out",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202608100339018995BF97DA06C9E677A8"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7524305850039586101": {
+   "name": "Passing Light",
+   "type": "in",
+   "anim": {
+    "id": "7524305850039586101",
+    "type": "in",
+    "start": 0,
+    "duration": 166666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7524305850039586101/02d5bad33ebdbab508dddf26485449b7",
+    "platform": "all",
+    "resource_id": "7524305850039586101",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Passing Light",
+    "category_id": "2037708273",
+    "category_name": "Trending-1",
+    "panel": "video",
+    "material_type": "video",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "video": 1
+   },
+   "cached": false
+  },
+  "7650053208311745813": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7650053208311745813/13d1b67d52626ed05651cba538cac36e",
+    "platform": "all",
+    "resource_id": "7650053208311745813",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 2
+   },
+   "cached": false
+  },
+  "7650050354259889428": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7650050354259889428/8024f9bbfd1583fba252d03f56d68353",
+    "platform": "all",
+    "resource_id": "7650050354259889428",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 4
+   },
+   "cached": false
+  },
+  "7149113292747706881": {
+   "name": "",
+   "type": "in",
+   "anim": {
+    "id": "",
+    "type": "in",
+    "start": 0,
+    "duration": 1016666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7149113292747706881/a7b05a11c6bdc7010cc4dc7f1d276407",
+    "platform": "all",
+    "resource_id": "7149113292747706881",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": false
+  },
+  "7535684331256188177": {
+   "name": "",
+   "type": "caption",
+   "anim": {
+    "id": "",
+    "type": "caption",
+    "start": 0,
+    "duration": 1919000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7535684331256188177/e2ea3792c7ae17e63a346e43566a39a7",
+    "platform": "all",
+    "resource_id": "7535684331256188177",
+    "third_resource_id": "",
+    "source_platform": 1,
+    "name": "",
+    "category_id": "",
+    "category_name": "",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": ""
+   },
+   "used_on": {
+    "text": 92
+   },
+   "cached": true
+  },
+  "7616366061323111694": {
+   "name": "Glitch Slash",
+   "type": "in",
+   "anim": {
+    "id": "7616366061323111694",
+    "type": "in",
+    "start": 0,
+    "duration": 566666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7616366061323111694/86e1d5ebbc50a59caffde51978584d8d",
+    "platform": "all",
+    "resource_id": "7616366061323111694",
+    "third_resource_id": "0",
+    "source_platform": 1,
+    "name": "Glitch Slash",
+    "category_id": "ruchang",
+    "category_name": "In",
+    "panel": "",
+    "material_type": "sticker",
+    "anim_adjust_params": null,
+    "request_id": "202610270014026CCCD8F1B344E51A88AE"
+   },
+   "used_on": {
+    "text": 1
+   },
+   "cached": true
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "defaultMode": "acceptEdits",
+    "additionalDirectories": [
+      "D:/capcut-initdata/CapCut Drafts",
+      "C:/Users/asus/AppData/Local/CapCut",
+      "C:/Users/asus/Downloads",
+      "D:/ui sfx",
+      "D:/soundeffets"
+    ],
+    "allow": [
+      "Bash(node engine/*)",
+      "Bash(python engine/*)",
+      "Bash(ls *)",
+      "Bash(tasklist*)",
+      "PowerShell(node engine/*)",
+      "PowerShell(python engine/*)",
+      "Read(//d/capcut-initdata/**)",
+      "Read(//c/Users/asus/AppData/Local/CapCut/**)",
+      "Read(//c/Users/asus/Downloads/**)",
+      "Read(//d/ui sfx/**)",
+      "Read(//d/soundeffets/**)",
+      "WebSearch",
+      "WebFetch(domain:pixabay.com)",
+      "WebFetch(domain:mixkit.co)"
+    ],
+    "deny": [
+      "Edit(//d/capcut-initdata/**)",
+      "Write(//d/capcut-initdata/**)"
+    ]
+  }
+}

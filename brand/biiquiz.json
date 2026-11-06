@@ -1,0 +1,213 @@
+{
+  "_about": "biiQuiz brand kit. Colours sampled from biiquiz.com (2026-11-03). Used by the kinetic scene builder (engine/lib/kinetic.js) and the plan.",
+  "name": "biiQuiz",
+  "website": "biiquiz.com",
+  "colors": {
+    "primary": "#3525CD",
+    "electric": "#282EFE",
+    "navy": "#111339",
+    "navy_soft": "#292B4D",
+    "ink": "#111339",
+    "lavender": "#8F7BFF",
+    "success": "#22C55E",
+    "warm": "#FF7A45",
+    "white": "#FFFFFF"
+  },
+  "gradient": [
+    "#282EFE",
+    "#8F7BFF"
+  ],
+  "keyword_colors": [
+    "#3525CD",
+    "#282EFE",
+    "#8F7BFF",
+    "#FF7A45"
+  ],
+  "scene_tints": [
+    "#C9C4FF",
+    "#BFD8FF",
+    "#C6F0E2",
+    "#FFD8C8",
+    "#FFD0E4"
+  ],
+  "theme": "light",
+  "fonts": {
+    "devanagari": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7482756842486009094/92df43a041fca34183aa56ed9d814d41/font.ttf",
+    "latin_heavy": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/177473853/83838885cc90008c6617eb921e519cf0/NTSomic-Bold.ttf",
+    "mono": "C:/Windows/Fonts/consolab.ttf"
+  },
+  "sfx": {
+    "line": {
+      "path": "library/sfx/pop.wav",
+      "volume": 0.32
+    },
+    "scene": {
+      "path": "library/sfx/whoosh_short.wav",
+      "volume": 0.35
+    },
+    "icon": {
+      "path": "library/sfx/pop_high.wav",
+      "volume": 0.38
+    },
+    "tag": {
+      "path": "library/sfx/blip.wav",
+      "volume": 0.3
+    },
+    "pill": {
+      "path": "library/sfx/blip.wav",
+      "volume": 0.3
+    },
+    "typing": {
+      "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/KEYBOARD 1 (1).wav",
+      "volume": 0.3
+    },
+    "row": {
+      "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Select.wav",
+      "volume": 0.38
+    },
+    "check": {
+      "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Click, UI Buttons, Confirm, Option - Epidemic Sound.mp3",
+      "volume": 0.4
+    },
+    "progress": {
+      "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/DATA 2 (8).wav",
+      "volume": 0.35
+    },
+    "bars": {
+      "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/counting.wav",
+      "volume": 0.35
+    },
+    "strike": {
+      "path": "library/sfx/whoosh_short.wav",
+      "volume": 0.3
+    },
+    "cta": {
+      "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Aproove.wav",
+      "volume": 0.5
+    }
+  },
+  "bgm": {
+    "default": "Gentle Ads(Uplifting Inspiring Modern Technology Future)",
+    "volume": 0.1
+  },
+  "sfx_pools": {
+    "_about": "SFX variety rule (user, 2026-11-05): each file max 5 uses per video, never >3 in a row (builder avoids any back-to-back repeat). Pools classified by attack/body/brightness from D:/ui sfx. key_pool maps kinetic SFX keys to pools.",
+    "max_uses": 5,
+    "max_run": 3,
+    "ref_db": -24,
+    "key_pool": {
+      "line": "hit",
+      "card": "hit",
+      "icon": "hit",
+      "tag": "hit",
+      "pill": "hit",
+      "row": "hit",
+      "check": "hit",
+      "strike": "whoosh",
+      "scene": "whoosh",
+      "typing": "typing",
+      "progress": "data",
+      "bars": "count",
+      "cta": "success"
+    },
+    "pools": {
+      "hit": {
+        "volume": 0.34,
+        "max_dur": 0.6,
+        "files": [
+          "D:/ui sfx/Button  (1).wav",
+          "D:/ui sfx/Button  (2).wav",
+          "D:/ui sfx/Button  (3).wav",
+          "D:/ui sfx/Button  (4).wav",
+          "D:/ui sfx/Button  (5).wav",
+          "D:/ui sfx/Button  (6).wav",
+          "D:/ui sfx/Button  (7).wav",
+          "D:/ui sfx/Button  (9).wav",
+          "D:/ui sfx/Button  (15).wav",
+          "D:/ui sfx/Button  (16).wav",
+          "D:/ui sfx/Button  (17).wav",
+          "D:/ui sfx/Button  (19).wav",
+          "D:/ui sfx/Button  (21).wav",
+          "D:/ui sfx/Button  (22).wav",
+          "D:/ui sfx/Button  (23).wav",
+          "D:/ui sfx/Button  (25).wav",
+          "D:/ui sfx/Button  (26).wav",
+          "D:/ui sfx/Button  (27).wav",
+          "D:/ui sfx/Button  (28).wav",
+          "D:/ui sfx/Button  (29).wav",
+          "D:/ui sfx/Button  (30).wav",
+          "D:/ui sfx/Button  (32).wav",
+          "D:/ui sfx/Button  (33).wav",
+          "D:/ui sfx/Button  (34).wav",
+          "D:/ui sfx/Button  (35).wav",
+          "D:/ui sfx/Button  (38).wav",
+          "D:/ui sfx/popup2.mp3",
+          "D:/ui sfx/Select.wav",
+          "D:/ui sfx/AM - SCI FI CLICK 4.MP3",
+          "D:/ui sfx/DATA 2 (8).wav",
+          "D:/ui sfx/ES_Games, Video, Menu UI, Notification 02 - Epidemic Sound.mp3",
+          "D:/ui sfx/Granular, Transform, Move, Splash (7).wav",
+          "D:/ui sfx/ES_User Interface, Click, UI Buttons, Confirm, Option - Epidemic Sound.mp3",
+          "D:/ui sfx/ES_User Interface, Click, Sci Fi Games, UI Menu, Very Short, Open 01 - Epidemic Sound.mp3"
+        ]
+      },
+      "whoosh": {
+        "volume": 0.32,
+        "max_dur": 1.0,
+        "files": [
+          "D:/ui sfx/Short whoose_10.mp3",
+          "D:/ui sfx/Button  (10).wav",
+          "D:/ui sfx/Button  (11).wav",
+          "D:/ui sfx/Button  (12).wav",
+          "D:/ui sfx/Button  (13).wav"
+        ]
+      },
+      "typing": {
+        "volume": 0.28,
+        "files": [
+          "D:/ui sfx/KEYBOARD 1 (1).wav",
+          "D:/ui sfx/ES_Communications, Typewriter, Typewriter, Sequence, Typing Burst, Variations, Perspective 01, Clicking 08 - Epidemic Sound.mp3",
+          "D:/ui sfx/ES_Communications, Typewriter, Typewriter, Vintage, Tippo, Typing, Long 01 - Epidemic Sound.mp3"
+        ]
+      },
+      "data": {
+        "volume": 0.3,
+        "files": [
+          "D:/ui sfx/SPIN CLICKS (1).mp3",
+          "D:/ui sfx/ES_User Interface, Click, Score, Points, Counting, High, Loop - Epidemic Sound.mp3",
+          "D:/ui sfx/ES_User Interface, Click, Score, Points, Counting, Mid, Loop - Epidemic Sound.mp3",
+          "D:/ui sfx/counting.wav"
+        ]
+      },
+      "count": {
+        "volume": 0.3,
+        "files": [
+          "D:/ui sfx/counting.wav",
+          "D:/ui sfx/ES_User Interface, Click, Score, Points, Counting, High, Loop - Epidemic Sound.mp3"
+        ]
+      },
+      "success": {
+        "volume": 0.42,
+        "max_dur": 1.2,
+        "files": [
+          "D:/ui sfx/Aproove.wav",
+          "D:/ui sfx/CARTOON PRIZE.wav",
+          "D:/ui sfx/ES_Games, Video, Menu UI, Notification 01 - Epidemic Sound.mp3",
+          "D:/ui sfx/ES_User Interface, Alert, Signals, Beacons, Light, Digital - Epidemic Sound.mp3"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "_about": "Given by the user 2026-11-05. Social bar sits ~30% from the bottom on every video; the end card shows website + email + WhatsApp.",
+    "website": "biiquiz.com",
+    "email": "info@biiquiz.com",
+    "whatsapp": "971-4608540",
+    "social": {
+      "facebook": "biiquiz",
+      "instagram": "biiquizofficial",
+      "tiktok": "biiquiz_enterprise"
+    },
+    "social_bar_y": 0.7
+  }
+}

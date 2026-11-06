@@ -1,0 +1,2926 @@
+{
+ "_generated": "2026-11-03T17:31:58.491Z",
+ "bgm": [
+  {
+   "name": "Story of One Success",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/60090f97c20ad1ba4cbc495c3436759f.mp3",
+   "duration_sec": 131.3,
+   "category": "Favorites",
+   "favorite": true,
+   "drafts": [
+    "bosch-washing-machine",
+    "hitachiac",
+    "hitachiwashingmachine",
+    "isic-esim-dashain-offerft1",
+    "nimbus-idp-esim-01-with-qr",
+    "NIMBUZ-ESIM-OFFER-DASHAIN-VIDEO03FT",
+    "universal-aligner-dashainoffer",
+    "washing-dish-machine",
+    "wellnessproject"
+   ],
+   "avg_volume": 0.2,
+   "material": {
+    "id": "B199549A-6813-4e3c-B6E6-1EBDE858833C",
+    "unique_id": "",
+    "type": "music",
+    "name": "Story of One Success",
+    "duration": 131300000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/60090f97c20ad1ba4cbc495c3436759f.mp3",
+    "category_name": "Favorites",
+    "wave_points": [],
+    "music_id": "7449225856688883721",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "-100",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "pgc",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 9
+  },
+  {
+   "name": "Story of One Success",
+   "path": "C:\\Users\\asus\\AppData\\Local\\CapCut\\User Data\\Cache\\music\\60090f97c20ad1ba4cbc495c3436759f.mp3",
+   "duration_sec": 131.3,
+   "category": "Favorites",
+   "favorite": true,
+   "drafts": [
+    "breatmessager"
+   ],
+   "avg_volume": 0.28,
+   "material": {
+    "id": "C81CF365-97F3-45e7-BEE7-79746208CFC6",
+    "unique_id": "",
+    "type": "music",
+    "name": "Story of One Success",
+    "duration": 131300000,
+    "path": "C:\\Users\\asus\\AppData\\Local\\CapCut\\User Data\\Cache\\music\\60090f97c20ad1ba4cbc495c3436759f.mp3",
+    "category_name": "Favorites",
+    "wave_points": [],
+    "music_id": "7449225856688883721",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "-100",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "pgc",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    }
+   },
+   "uses": 1
+  },
+  {
+   "name": "Gentle Ads(Uplifting Inspiring Modern Technology Future)_ver 1(140s)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/10e8160a3db75da638ec98fd4fa780e7.mp3",
+   "duration_sec": 136,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "dashain-tcl-offer",
+    "dashain-tcl-offer-copy"
+   ],
+   "avg_volume": 0.17,
+   "material": {
+    "id": "924A2EF8-57F9-40aa-BA20-97079D8FE17E",
+    "unique_id": "",
+    "type": "music",
+    "name": "Gentle Ads(Uplifting Inspiring Modern Technology Future)_ver 1(140s)",
+    "duration": 136000000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/10e8160a3db75da638ec98fd4fa780e7.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7449230195083544627",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 2
+  },
+  {
+   "name": "Vintage Ads Nostalgia",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/53c8c8ddac4ef31e0edf47da24cc01f1.mp3",
+   "duration_sec": 206.53,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "dashain-tcl-offer",
+    "dashain-tcl-offer-copy"
+   ],
+   "avg_volume": 1,
+   "material": {
+    "id": "A4361DC5-9470-48cc-93BC-5DFCE382EE0F",
+    "unique_id": "",
+    "type": "music",
+    "name": "Vintage Ads Nostalgia",
+    "duration": 206533333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/53c8c8ddac4ef31e0edf47da24cc01f1.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7563591243415799817",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 2
+  },
+  {
+   "name": "Trailer Epic Card Point Scary Horror Trailer",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/b29826a66e0edd3e0accc0697489d50e.mp3",
+   "duration_sec": 56.37,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "bosch-washing-machine"
+   ],
+   "avg_volume": 0.2,
+   "material": {
+    "id": "82640DFD-EAF4-4f32-93EB-1F89E9A32D6F",
+    "unique_id": "",
+    "type": "music",
+    "name": "Trailer Epic Card Point Scary Horror Trailer",
+    "duration": 56366666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/b29826a66e0edd3e0accc0697489d50e.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7491966767385593897",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 1
+  },
+  {
+   "name": "Energetic Live Surge",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/86aa2339e03623a2ff9eac6c75aeb77c.mp3",
+   "duration_sec": 165.5,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "bosch-washing-machine"
+   ],
+   "avg_volume": 0.09,
+   "material": {
+    "id": "574BE453-CAE6-4089-BFCF-5CC1F3106F8D",
+    "unique_id": "",
+    "type": "music",
+    "name": "Energetic Live Surge",
+    "duration": 165500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/86aa2339e03623a2ff9eac6c75aeb77c.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7553502219837016074",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 1
+  },
+  {
+   "name": "Comical Background Music for Cute Animals and Children’s Content(1736165)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/829a32bad1676d004153b9dff4862e2b.mp3",
+   "duration_sec": 133.97,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "bosch-washing-machine"
+   ],
+   "avg_volume": 0.38,
+   "material": {
+    "id": "7480C3C4-B47D-4d70-92CE-D158E8C5664D",
+    "unique_id": "",
+    "type": "music",
+    "name": "Comical Background Music for Cute Animals and Children’s Content(1736165)",
+    "duration": 133966666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/829a32bad1676d004153b9dff4862e2b.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7685953789547677697",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 1
+  },
+  {
+   "name": "Funny lazy donkey (hilarious song)(937200)",
+   "path": "C:\\Users\\asus\\AppData\\Local\\CapCut\\User Data\\Cache\\music\\42344ea4a0d6a9b0575dc0807e1aab34.mp3",
+   "duration_sec": 65.57,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "bosch-washing-machine"
+   ],
+   "avg_volume": 0.07,
+   "material": {
+    "id": "FCD68C35-A81F-483a-8D45-E045470D53CF",
+    "unique_id": "",
+    "type": "music",
+    "name": "Funny lazy donkey (hilarious song)(937200)",
+    "duration": 65566666,
+    "path": "C:\\Users\\asus\\AppData\\Local\\CapCut\\User Data\\Cache\\music\\42344ea4a0d6a9b0575dc0807e1aab34.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7540853951890196481",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 1
+  },
+  {
+   "name": "Documentary, history, calm, sadness：L(1102476)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/32e26e09a337ed12522d6411b2197e7f.mp3",
+   "duration_sec": 642.13,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "cpframe01"
+   ],
+   "avg_volume": 0.24,
+   "material": {
+    "id": "3055CCE3-9A51-4f23-B714-45BD69B2A338",
+    "unique_id": "",
+    "type": "music",
+    "name": "Documentary, history, calm, sadness：L(1102476)",
+    "duration": 642133333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/32e26e09a337ed12522d6411b2197e7f.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7021240508320876546",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    }
+   },
+   "uses": 1
+  },
+  {
+   "name": "Cartoon comical scenes(1686356)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/be3a8d5046a78cfc3eb8597f7767ba62.mp3",
+   "duration_sec": 38.5,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "godrej-eon-valor"
+   ],
+   "avg_volume": 0.25,
+   "material": {
+    "id": "6877C111-ED5D-4d87-B728-F2EBE66FFC53",
+    "unique_id": "",
+    "type": "music",
+    "name": "Cartoon comical scenes(1686356)",
+    "duration": 38500000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/be3a8d5046a78cfc3eb8597f7767ba62.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7608400965876959249",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 1
+  },
+  {
+   "name": "A Sad Meme",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/262c0e21c75095b8595a22c3accdb42c.mp3",
+   "duration_sec": 133.17,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "godrej-eon-valor"
+   ],
+   "avg_volume": 0.27,
+   "material": {
+    "id": "D17D7321-764A-4dfc-94F8-31E827C81144",
+    "unique_id": "",
+    "type": "music",
+    "name": "A Sad Meme",
+    "duration": 133166666,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/262c0e21c75095b8595a22c3accdb42c.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7378219875926362123",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 1
+  },
+  {
+   "name": "Energetic Driving Sport Rock9706",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/27e99091e2ff2d06fcb4c3cf1540a1cf.mp3",
+   "duration_sec": 116.13,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "godrej-eon-valor"
+   ],
+   "avg_volume": 0.09,
+   "material": {
+    "id": "50C3D2FF-A8A7-456d-983A-1E759C76416F",
+    "unique_id": "",
+    "type": "music",
+    "name": "Energetic Driving Sport Rock9706",
+    "duration": 116133333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/27e99091e2ff2d06fcb4c3cf1540a1cf.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7377872786708383763",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 1
+  },
+  {
+   "name": "Groovy Funk for TV Show Advertising",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/29533c489fcf9a83f415a01f410d7486.mp3",
+   "duration_sec": 101.8,
+   "category": "search_audio",
+   "favorite": false,
+   "drafts": [
+    "godrej-eon-valor"
+   ],
+   "avg_volume": 0.19,
+   "material": {
+    "id": "C0D89EC0-FC4A-4945-AE2B-135D569E8B1D",
+    "unique_id": "",
+    "type": "music",
+    "name": "Groovy Funk for TV Show Advertising",
+    "duration": 101800000,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/29533c489fcf9a83f415a01f410d7486.mp3",
+    "category_name": "search_audio",
+    "wave_points": [],
+    "music_id": "7452669065792276506",
+    "app_id": 1775,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "0",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 1
+  },
+  {
+   "name": "Afraid Thriller (short version)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/be225cfd6cd8cf41260b88dd6e98c2bb.mp3",
+   "duration_sec": 25.73,
+   "category": "",
+   "favorite": false,
+   "drafts": [
+    "hospital0bite0"
+   ],
+   "avg_volume": 0.21,
+   "material": {
+    "id": "DB397E71-DFDB-401e-B8A2-1F95C764B9E8",
+    "unique_id": "",
+    "type": "music",
+    "name": "Afraid Thriller (short version)",
+    "duration": 25733333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/be225cfd6cd8cf41260b88dd6e98c2bb.mp3",
+    "category_name": "",
+    "wave_points": [],
+    "music_id": "7448374458970900519",
+    "app_id": 0,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "pgc",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 1
+  },
+  {
+   "name": "Incident scene, seriousness, tense and heavy atmosphere(1209888)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/880a51b4d8db32b241bcf63800d6cf32.mp3",
+   "duration_sec": 173.43,
+   "category": "",
+   "favorite": false,
+   "drafts": [
+    "hospital0bite0"
+   ],
+   "avg_volume": 0.11,
+   "material": {
+    "id": "9668E37D-BB84-453c-A832-6B2F48E63921",
+    "unique_id": "",
+    "type": "music",
+    "name": "Incident scene, seriousness, tense and heavy atmosphere(1209888)",
+    "duration": 173433333,
+    "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/880a51b4d8db32b241bcf63800d6cf32.mp3",
+    "category_name": "",
+    "wave_points": [],
+    "music_id": "7075933329639344130",
+    "app_id": 0,
+    "text_id": "",
+    "tone_type": "",
+    "source_platform": 0,
+    "video_id": "",
+    "effect_id": "",
+    "resource_id": "",
+    "third_resource_id": "",
+    "category_id": "",
+    "intensifies_path": "",
+    "formula_id": "",
+    "check_flag": 1,
+    "team_id": "",
+    "local_material_id": "",
+    "tone_speaker": "",
+    "mock_tone_speaker": "",
+    "tone_effect_id": "",
+    "tone_effect_name": "",
+    "tone_platform": "",
+    "cloned_model_type": "",
+    "tone_category_id": "",
+    "tone_category_name": "",
+    "tone_second_category_id": "",
+    "tone_second_category_name": "",
+    "tone_emotion_name_key": "",
+    "tone_emotion_style": "",
+    "tone_emotion_role": "",
+    "tone_emotion_selection": "",
+    "tone_emotion_scale": 0,
+    "moyin_emotion": "",
+    "request_id": "",
+    "query": "",
+    "search_id": "",
+    "sound_separate_type": "",
+    "is_text_edit_overdub": false,
+    "is_ugc": false,
+    "is_ai_clone_tone": false,
+    "is_ai_clone_tone_post": false,
+    "source_from": "",
+    "copyright_limit_type": "none",
+    "aigc_history_id": "",
+    "aigc_item_id": "",
+    "music_source": "pgc",
+    "pgc_id": "",
+    "pgc_name": "",
+    "similiar_music_info": {
+     "original_song_id": "",
+     "original_song_name": ""
+    },
+    "ai_music_type": 0,
+    "ai_music_enter_from": "",
+    "lyric_type": 0,
+    "tts_task_id": "",
+    "tts_generate_scene": "",
+    "ai_music_generate_scene": 0,
+    "tts_benefit_info": {
+     "benefit_type": "none",
+     "benefit_log_id": "",
+     "benefit_log_extra": "",
+     "benefit_amount": -1
+    },
+    "tts_language_info": null,
+    "is_ai_generate_content": false,
+    "aigc_audio_type": "none",
+    "aigc_audio_generate_info": null
+   },
+   "uses": 1
+  }
+ ],
+ "sfx": [
+  {
+   "name": "blip.wav",
+   "path": "D:/claude-code-saas-video-editor/library/sfx/blip.wav",
+   "duration_sec": 0.12,
+   "tags": [],
+   "source": "D:/claude-code-saas-video-editor/library/sfx"
+  },
+  {
+   "name": "glitch.wav",
+   "path": "D:/claude-code-saas-video-editor/library/sfx/glitch.wav",
+   "duration_sec": 0.45,
+   "tags": [
+    "glitch"
+   ],
+   "source": "D:/claude-code-saas-video-editor/library/sfx"
+  },
+  {
+   "name": "impact.wav",
+   "path": "D:/claude-code-saas-video-editor/library/sfx/impact.wav",
+   "duration_sec": 1.6,
+   "tags": [
+    "impact"
+   ],
+   "source": "D:/claude-code-saas-video-editor/library/sfx"
+  },
+  {
+   "name": "pop.wav",
+   "path": "D:/claude-code-saas-video-editor/library/sfx/pop.wav",
+   "duration_sec": 0.18,
+   "tags": [
+    "pop"
+   ],
+   "source": "D:/claude-code-saas-video-editor/library/sfx"
+  },
+  {
+   "name": "pop_high.wav",
+   "path": "D:/claude-code-saas-video-editor/library/sfx/pop_high.wav",
+   "duration_sec": 0.18,
+   "tags": [
+    "pop"
+   ],
+   "source": "D:/claude-code-saas-video-editor/library/sfx"
+  },
+  {
+   "name": "riser.wav",
+   "path": "D:/claude-code-saas-video-editor/library/sfx/riser.wav",
+   "duration_sec": 2.5,
+   "tags": [
+    "riser"
+   ],
+   "source": "D:/claude-code-saas-video-editor/library/sfx"
+  },
+  {
+   "name": "shimmer.wav",
+   "path": "D:/claude-code-saas-video-editor/library/sfx/shimmer.wav",
+   "duration_sec": 1.6,
+   "tags": [
+    "shimmer"
+   ],
+   "source": "D:/claude-code-saas-video-editor/library/sfx"
+  },
+  {
+   "name": "typing.wav",
+   "path": "D:/claude-code-saas-video-editor/library/sfx/typing.wav",
+   "duration_sec": 1.37,
+   "tags": [
+    "typing"
+   ],
+   "source": "D:/claude-code-saas-video-editor/library/sfx"
+  },
+  {
+   "name": "whoosh.wav",
+   "path": "D:/claude-code-saas-video-editor/library/sfx/whoosh.wav",
+   "duration_sec": 0.7,
+   "tags": [
+    "whoosh"
+   ],
+   "source": "D:/claude-code-saas-video-editor/library/sfx"
+  },
+  {
+   "name": "whoosh_short.wav",
+   "path": "D:/claude-code-saas-video-editor/library/sfx/whoosh_short.wav",
+   "duration_sec": 0.4,
+   "tags": [
+    "whoosh"
+   ],
+   "source": "D:/claude-code-saas-video-editor/library/sfx"
+  },
+  {
+   "name": "AM - CORRECT ANSWER WOOSH.MP3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/AM - CORRECT ANSWER WOOSH.MP3",
+   "duration_sec": 2.95,
+   "tags": [
+    "whoosh",
+    "success"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "AM - SCI FI CLICK 4.MP3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/AM - SCI FI CLICK 4.MP3",
+   "duration_sec": 0.99,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Aproove.wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Aproove.wav",
+   "duration_sec": 0.8,
+   "tags": [
+    "success"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (1).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (1).wav",
+   "duration_sec": 1.47,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (10).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (10).wav",
+   "duration_sec": 2.78,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (11).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (11).wav",
+   "duration_sec": 2.95,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (12).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (12).wav",
+   "duration_sec": 2.52,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (13).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (13).wav",
+   "duration_sec": 2.63,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (14).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (14).wav",
+   "duration_sec": 2.12,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (15).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (15).wav",
+   "duration_sec": 2,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (16).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (16).wav",
+   "duration_sec": 1.73,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (17).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (17).wav",
+   "duration_sec": 1.07,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (18).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (18).wav",
+   "duration_sec": 3.63,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (19).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (19).wav",
+   "duration_sec": 3.8,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (2).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (2).wav",
+   "duration_sec": 0.3,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (20).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (20).wav",
+   "duration_sec": 3.25,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (21).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (21).wav",
+   "duration_sec": 0.53,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (22).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (22).wav",
+   "duration_sec": 1.9,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (23).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (23).wav",
+   "duration_sec": 1.9,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (24).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (24).wav",
+   "duration_sec": 1.08,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (25).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (25).wav",
+   "duration_sec": 2.55,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (26).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (26).wav",
+   "duration_sec": 0.5,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (27).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (27).wav",
+   "duration_sec": 1.02,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (28).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (28).wav",
+   "duration_sec": 0.22,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (29).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (29).wav",
+   "duration_sec": 0.2,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (3).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (3).wav",
+   "duration_sec": 0.83,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (30).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (30).wav",
+   "duration_sec": 0.45,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (32).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (32).wav",
+   "duration_sec": 0.95,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (33).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (33).wav",
+   "duration_sec": 0.8,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (34).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (34).wav",
+   "duration_sec": 0.48,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (35).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (35).wav",
+   "duration_sec": 0.45,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (36).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (36).wav",
+   "duration_sec": 2.6,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (37).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (37).wav",
+   "duration_sec": 2.03,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (38).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (38).wav",
+   "duration_sec": 1.62,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (4).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (4).wav",
+   "duration_sec": 1.23,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (5).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (5).wav",
+   "duration_sec": 0.97,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (6).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (6).wav",
+   "duration_sec": 1.17,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (7).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (7).wav",
+   "duration_sec": 1.37,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (8).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (8).wav",
+   "duration_sec": 0.8,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Button  (9).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Button  (9).wav",
+   "duration_sec": 0.47,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "CARTOON PRIZE.wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/CARTOON PRIZE.wav",
+   "duration_sec": 1.38,
+   "tags": [
+    "success"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "counting.wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/counting.wav",
+   "duration_sec": 0.63,
+   "tags": [
+    "counting"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "DATA 2 (8).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/DATA 2 (8).wav",
+   "duration_sec": 0.51,
+   "tags": [
+    "counting"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_Communications, Camera, Shutter Release, Nikon F4 03 - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_Communications, Camera, Shutter Release, Nikon F4 03 - Epidemic Sound.mp3",
+   "duration_sec": 0.36,
+   "tags": [
+    "camera"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_Communications, Typewriter, Typewriter, Sequence, Typing Burst, Variations, Perspective 01, Clicking 08 - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_Communications, Typewriter, Typewriter, Sequence, Typing Burst, Variations, Perspective 01, Clicking 08 - Epidemic Sound.mp3",
+   "duration_sec": 11.21,
+   "tags": [
+    "click",
+    "typing"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_Communications, Typewriter, Typewriter, Vintage, Tippo, Typing, Long 01 - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_Communications, Typewriter, Typewriter, Vintage, Tippo, Typing, Long 01 - Epidemic Sound.mp3",
+   "duration_sec": 12.19,
+   "tags": [
+    "typing"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_Games, Video, Menu UI, Notification 01 - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_Games, Video, Menu UI, Notification 01 - Epidemic Sound.mp3",
+   "duration_sec": 1.03,
+   "tags": [
+    "notification"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_Games, Video, Menu UI, Notification 02 - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_Games, Video, Menu UI, Notification 02 - Epidemic Sound.mp3",
+   "duration_sec": 0.41,
+   "tags": [
+    "notification"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Alert, Signals, Beacons, Light, Digital - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Alert, Signals, Beacons, Light, Digital - Epidemic Sound.mp3",
+   "duration_sec": 2.04,
+   "tags": [
+    "notification"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Alert, UI Buttons, Dissapear, Musical, UI Buttons - Epidemic Sound (1).mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Alert, UI Buttons, Dissapear, Musical, UI Buttons - Epidemic Sound (1).mp3",
+   "duration_sec": 0.86,
+   "tags": [
+    "click",
+    "notification"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Alert, UI Buttons, Dissapear, Musical, UI Buttons - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Alert, UI Buttons, Dissapear, Musical, UI Buttons - Epidemic Sound.mp3",
+   "duration_sec": 0.86,
+   "tags": [
+    "click",
+    "notification"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Sci Fi Games, UI Menu, Very Short, Open 01 - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Click, Sci Fi Games, UI Menu, Very Short, Open 01 - Epidemic Sound.mp3",
+   "duration_sec": 2.26,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Sci Fi Games, UI Menu, Very Short, Open 10 - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Click, Sci Fi Games, UI Menu, Very Short, Open 10 - Epidemic Sound.mp3",
+   "duration_sec": 2.47,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Score, Points, Counting, High, Loop - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Click, Score, Points, Counting, High, Loop - Epidemic Sound.mp3",
+   "duration_sec": 7.54,
+   "tags": [
+    "click",
+    "counting"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Score, Points, Counting, Mid, Loop - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Click, Score, Points, Counting, Mid, Loop - Epidemic Sound.mp3",
+   "duration_sec": 6.94,
+   "tags": [
+    "click",
+    "counting"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Standard, Short, Clean, Variations - Epidemic Sound (1).mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Click, Standard, Short, Clean, Variations - Epidemic Sound (1).mp3",
+   "duration_sec": 3.67,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Standard, Short, Clean, Variations - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Click, Standard, Short, Clean, Variations - Epidemic Sound.mp3",
+   "duration_sec": 3.67,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, UI Buttons, Confirm, Option - Epidemic Sound (1).mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Click, UI Buttons, Confirm, Option - Epidemic Sound (1).mp3",
+   "duration_sec": 0.86,
+   "tags": [
+    "click",
+    "success"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, UI Buttons, Confirm, Option - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Click, UI Buttons, Confirm, Option - Epidemic Sound.mp3",
+   "duration_sec": 0.86,
+   "tags": [
+    "click",
+    "success"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Glitch, Malfunctional, Flipping, Glitch - Epidemic Sound.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/ES_User Interface, Glitch, Malfunctional, Flipping, Glitch - Epidemic Sound.mp3",
+   "duration_sec": 5.04,
+   "tags": [
+    "glitch"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "FAST GLITCH (1).mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/FAST GLITCH (1).mp3",
+   "duration_sec": 1.06,
+   "tags": [
+    "glitch"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Granular, Transform, Move, Splash (7).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Granular, Transform, Move, Splash (7).wav",
+   "duration_sec": 0.27,
+   "tags": [],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "KEYBOARD 1 (1).wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/KEYBOARD 1 (1).wav",
+   "duration_sec": 2.2,
+   "tags": [
+    "typing"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "popup2.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/popup2.mp3",
+   "duration_sec": 1.36,
+   "tags": [
+    "pop"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Select.wav",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Select.wav",
+   "duration_sec": 0.83,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "Short whoose_10.mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/Short whoose_10.mp3",
+   "duration_sec": 1.23,
+   "tags": [],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "SPIN CLICKS (1).mp3",
+   "path": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx/SPIN CLICKS (1).mp3",
+   "duration_sec": 3.68,
+   "tags": [
+    "click"
+   ],
+   "source": "C:/Users/asus/Downloads/ui sfx -premium/ui sfx"
+  },
+  {
+   "name": "AM - CORRECT ANSWER WOOSH.MP3",
+   "path": "D:/ui sfx/AM - CORRECT ANSWER WOOSH.MP3",
+   "duration_sec": 2.95,
+   "tags": [
+    "whoosh",
+    "success"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "AM - SCI FI CLICK 4.MP3",
+   "path": "D:/ui sfx/AM - SCI FI CLICK 4.MP3",
+   "duration_sec": 0.99,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Aproove.wav",
+   "path": "D:/ui sfx/Aproove.wav",
+   "duration_sec": 0.8,
+   "tags": [
+    "success"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (1).wav",
+   "path": "D:/ui sfx/Button  (1).wav",
+   "duration_sec": 1.47,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (10).wav",
+   "path": "D:/ui sfx/Button  (10).wav",
+   "duration_sec": 2.78,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (11).wav",
+   "path": "D:/ui sfx/Button  (11).wav",
+   "duration_sec": 2.95,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (12).wav",
+   "path": "D:/ui sfx/Button  (12).wav",
+   "duration_sec": 2.52,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (13).wav",
+   "path": "D:/ui sfx/Button  (13).wav",
+   "duration_sec": 2.63,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (14).wav",
+   "path": "D:/ui sfx/Button  (14).wav",
+   "duration_sec": 2.12,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (15).wav",
+   "path": "D:/ui sfx/Button  (15).wav",
+   "duration_sec": 2,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (16).wav",
+   "path": "D:/ui sfx/Button  (16).wav",
+   "duration_sec": 1.73,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (17).wav",
+   "path": "D:/ui sfx/Button  (17).wav",
+   "duration_sec": 1.07,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (18).wav",
+   "path": "D:/ui sfx/Button  (18).wav",
+   "duration_sec": 3.63,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (19).wav",
+   "path": "D:/ui sfx/Button  (19).wav",
+   "duration_sec": 3.8,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (2).wav",
+   "path": "D:/ui sfx/Button  (2).wav",
+   "duration_sec": 0.3,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (20).wav",
+   "path": "D:/ui sfx/Button  (20).wav",
+   "duration_sec": 3.25,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (21).wav",
+   "path": "D:/ui sfx/Button  (21).wav",
+   "duration_sec": 0.53,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (22).wav",
+   "path": "D:/ui sfx/Button  (22).wav",
+   "duration_sec": 1.9,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (23).wav",
+   "path": "D:/ui sfx/Button  (23).wav",
+   "duration_sec": 1.9,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (24).wav",
+   "path": "D:/ui sfx/Button  (24).wav",
+   "duration_sec": 1.08,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (25).wav",
+   "path": "D:/ui sfx/Button  (25).wav",
+   "duration_sec": 2.55,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (26).wav",
+   "path": "D:/ui sfx/Button  (26).wav",
+   "duration_sec": 0.5,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (27).wav",
+   "path": "D:/ui sfx/Button  (27).wav",
+   "duration_sec": 1.02,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (28).wav",
+   "path": "D:/ui sfx/Button  (28).wav",
+   "duration_sec": 0.22,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (29).wav",
+   "path": "D:/ui sfx/Button  (29).wav",
+   "duration_sec": 0.2,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (3).wav",
+   "path": "D:/ui sfx/Button  (3).wav",
+   "duration_sec": 0.83,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (30).wav",
+   "path": "D:/ui sfx/Button  (30).wav",
+   "duration_sec": 0.45,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (32).wav",
+   "path": "D:/ui sfx/Button  (32).wav",
+   "duration_sec": 0.95,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (33).wav",
+   "path": "D:/ui sfx/Button  (33).wav",
+   "duration_sec": 0.8,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (34).wav",
+   "path": "D:/ui sfx/Button  (34).wav",
+   "duration_sec": 0.48,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (35).wav",
+   "path": "D:/ui sfx/Button  (35).wav",
+   "duration_sec": 0.45,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (36).wav",
+   "path": "D:/ui sfx/Button  (36).wav",
+   "duration_sec": 2.6,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (37).wav",
+   "path": "D:/ui sfx/Button  (37).wav",
+   "duration_sec": 2.03,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (38).wav",
+   "path": "D:/ui sfx/Button  (38).wav",
+   "duration_sec": 1.62,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (4).wav",
+   "path": "D:/ui sfx/Button  (4).wav",
+   "duration_sec": 1.23,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (5).wav",
+   "path": "D:/ui sfx/Button  (5).wav",
+   "duration_sec": 0.97,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (6).wav",
+   "path": "D:/ui sfx/Button  (6).wav",
+   "duration_sec": 1.17,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (7).wav",
+   "path": "D:/ui sfx/Button  (7).wav",
+   "duration_sec": 1.37,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (8).wav",
+   "path": "D:/ui sfx/Button  (8).wav",
+   "duration_sec": 0.8,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Button  (9).wav",
+   "path": "D:/ui sfx/Button  (9).wav",
+   "duration_sec": 0.47,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "CARTOON PRIZE.wav",
+   "path": "D:/ui sfx/CARTOON PRIZE.wav",
+   "duration_sec": 1.38,
+   "tags": [
+    "success"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "counting.wav",
+   "path": "D:/ui sfx/counting.wav",
+   "duration_sec": 0.63,
+   "tags": [
+    "counting"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "DATA 2 (8).wav",
+   "path": "D:/ui sfx/DATA 2 (8).wav",
+   "duration_sec": 0.51,
+   "tags": [
+    "counting"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_Communications, Camera, Shutter Release, Nikon F4 03 - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_Communications, Camera, Shutter Release, Nikon F4 03 - Epidemic Sound.mp3",
+   "duration_sec": 0.36,
+   "tags": [
+    "camera"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_Communications, Typewriter, Typewriter, Sequence, Typing Burst, Variations, Perspective 01, Clicking 08 - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_Communications, Typewriter, Typewriter, Sequence, Typing Burst, Variations, Perspective 01, Clicking 08 - Epidemic Sound.mp3",
+   "duration_sec": 11.21,
+   "tags": [
+    "click",
+    "typing"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_Communications, Typewriter, Typewriter, Vintage, Tippo, Typing, Long 01 - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_Communications, Typewriter, Typewriter, Vintage, Tippo, Typing, Long 01 - Epidemic Sound.mp3",
+   "duration_sec": 12.19,
+   "tags": [
+    "typing"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_Games, Video, Menu UI, Notification 01 - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_Games, Video, Menu UI, Notification 01 - Epidemic Sound.mp3",
+   "duration_sec": 1.03,
+   "tags": [
+    "notification"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_Games, Video, Menu UI, Notification 02 - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_Games, Video, Menu UI, Notification 02 - Epidemic Sound.mp3",
+   "duration_sec": 0.41,
+   "tags": [
+    "notification"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Alert, Signals, Beacons, Light, Digital - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_User Interface, Alert, Signals, Beacons, Light, Digital - Epidemic Sound.mp3",
+   "duration_sec": 2.04,
+   "tags": [
+    "notification"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Alert, UI Buttons, Dissapear, Musical, UI Buttons - Epidemic Sound (1).mp3",
+   "path": "D:/ui sfx/ES_User Interface, Alert, UI Buttons, Dissapear, Musical, UI Buttons - Epidemic Sound (1).mp3",
+   "duration_sec": 0.86,
+   "tags": [
+    "click",
+    "notification"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Alert, UI Buttons, Dissapear, Musical, UI Buttons - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_User Interface, Alert, UI Buttons, Dissapear, Musical, UI Buttons - Epidemic Sound.mp3",
+   "duration_sec": 0.86,
+   "tags": [
+    "click",
+    "notification"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Sci Fi Games, UI Menu, Very Short, Open 01 - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_User Interface, Click, Sci Fi Games, UI Menu, Very Short, Open 01 - Epidemic Sound.mp3",
+   "duration_sec": 2.26,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Sci Fi Games, UI Menu, Very Short, Open 10 - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_User Interface, Click, Sci Fi Games, UI Menu, Very Short, Open 10 - Epidemic Sound.mp3",
+   "duration_sec": 2.47,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Score, Points, Counting, High, Loop - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_User Interface, Click, Score, Points, Counting, High, Loop - Epidemic Sound.mp3",
+   "duration_sec": 7.54,
+   "tags": [
+    "click",
+    "counting"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Score, Points, Counting, Mid, Loop - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_User Interface, Click, Score, Points, Counting, Mid, Loop - Epidemic Sound.mp3",
+   "duration_sec": 6.94,
+   "tags": [
+    "click",
+    "counting"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Standard, Short, Clean, Variations - Epidemic Sound (1).mp3",
+   "path": "D:/ui sfx/ES_User Interface, Click, Standard, Short, Clean, Variations - Epidemic Sound (1).mp3",
+   "duration_sec": 3.67,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, Standard, Short, Clean, Variations - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_User Interface, Click, Standard, Short, Clean, Variations - Epidemic Sound.mp3",
+   "duration_sec": 3.67,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, UI Buttons, Confirm, Option - Epidemic Sound (1).mp3",
+   "path": "D:/ui sfx/ES_User Interface, Click, UI Buttons, Confirm, Option - Epidemic Sound (1).mp3",
+   "duration_sec": 0.86,
+   "tags": [
+    "click",
+    "success"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Click, UI Buttons, Confirm, Option - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_User Interface, Click, UI Buttons, Confirm, Option - Epidemic Sound.mp3",
+   "duration_sec": 0.86,
+   "tags": [
+    "click",
+    "success"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "ES_User Interface, Glitch, Malfunctional, Flipping, Glitch - Epidemic Sound.mp3",
+   "path": "D:/ui sfx/ES_User Interface, Glitch, Malfunctional, Flipping, Glitch - Epidemic Sound.mp3",
+   "duration_sec": 5.04,
+   "tags": [
+    "glitch"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "FAST GLITCH (1).mp3",
+   "path": "D:/ui sfx/FAST GLITCH (1).mp3",
+   "duration_sec": 1.06,
+   "tags": [
+    "glitch"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Granular, Transform, Move, Splash (7).wav",
+   "path": "D:/ui sfx/Granular, Transform, Move, Splash (7).wav",
+   "duration_sec": 0.27,
+   "tags": [],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "KEYBOARD 1 (1).wav",
+   "path": "D:/ui sfx/KEYBOARD 1 (1).wav",
+   "duration_sec": 2.2,
+   "tags": [
+    "typing"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "popup2.mp3",
+   "path": "D:/ui sfx/popup2.mp3",
+   "duration_sec": 1.36,
+   "tags": [
+    "pop"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Select.wav",
+   "path": "D:/ui sfx/Select.wav",
+   "duration_sec": 0.83,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "Short whoose_10.mp3",
+   "path": "D:/ui sfx/Short whoose_10.mp3",
+   "duration_sec": 1.23,
+   "tags": [],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "SPIN CLICKS (1).mp3",
+   "path": "D:/ui sfx/SPIN CLICKS (1).mp3",
+   "duration_sec": 3.68,
+   "tags": [
+    "click"
+   ],
+   "source": "D:/ui sfx"
+  },
+  {
+   "name": "chainsaw-297887.mp3",
+   "path": "D:/soundeffets/chainsaw-297887.mp3",
+   "duration_sec": 15.86,
+   "tags": [
+    "horror"
+   ],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "chainsaw-3-228355.mp3",
+   "path": "D:/soundeffets/chainsaw-3-228355.mp3",
+   "duration_sec": 10.08,
+   "tags": [
+    "horror"
+   ],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "chainsaw-start-218438.mp3",
+   "path": "D:/soundeffets/chainsaw-start-218438.mp3",
+   "duration_sec": 4.6,
+   "tags": [
+    "horror"
+   ],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "gasp-7063.mp3",
+   "path": "D:/soundeffets/gasp-7063.mp3",
+   "duration_sec": 0.97,
+   "tags": [
+    "horror"
+   ],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "heavy-breath-male-63980.mp3",
+   "path": "D:/soundeffets/heavy-breath-male-63980.mp3",
+   "duration_sec": 21.38,
+   "tags": [],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "intense-male-falling-scream-244325.mp3",
+   "path": "D:/soundeffets/intense-male-falling-scream-244325.mp3",
+   "duration_sec": 2.4,
+   "tags": [
+    "horror"
+   ],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "male-breathing-84775.mp3",
+   "path": "D:/soundeffets/male-breathing-84775.mp3",
+   "duration_sec": 8.39,
+   "tags": [],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "man-scream-09-277551.mp3",
+   "path": "D:/soundeffets/man-scream-09-277551.mp3",
+   "duration_sec": 2.16,
+   "tags": [
+    "horror"
+   ],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "shock-gasp-demo-310498.mp3",
+   "path": "D:/soundeffets/shock-gasp-demo-310498.mp3",
+   "duration_sec": 1.1,
+   "tags": [
+    "horror"
+   ],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "sinister-laugh-140131.mp3",
+   "path": "D:/soundeffets/sinister-laugh-140131.mp3",
+   "duration_sec": 3.24,
+   "tags": [
+    "horror"
+   ],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "sooo-funny-82640.mp3",
+   "path": "D:/soundeffets/sooo-funny-82640.mp3",
+   "duration_sec": 5.69,
+   "tags": [],
+   "source": "D:/soundeffets"
+  },
+  {
+   "name": "Notification sound / Messenger / Glockenspiel / Single note / G5(1136790)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/31394bed5b1765b37498a762aa0c69b6.mp3",
+   "duration_sec": 3.63,
+   "tags": [
+    "notification"
+   ],
+   "uses": 3,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Notification sound & window pop-up sound(166904)",
+   "path": "C:\\Users\\asus\\AppData\\Local\\CapCut\\User Data\\Cache\\music\\b1b03b00180cfe8298aad0e628233d1d.mp3",
+   "duration_sec": 2.07,
+   "tags": [
+    "pop",
+    "notification",
+    "success"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "App Message reception notification sound Cokeen(1540454)",
+   "path": "C:\\Users\\asus\\AppData\\Local\\CapCut\\User Data\\Cache\\music\\736b490340a9e6e72b2f0b96ad7490ce.mp3",
+   "duration_sec": 5,
+   "tags": [
+    "notification"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Glitch sound that matches the sound logo(1192372)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/da69cbae92d82c441866a7752c51acd9.mp3",
+   "duration_sec": 0.63,
+   "tags": [
+    "glitch"
+   ],
+   "uses": 4,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Noisy washing machine sound(1157780)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/ce6e74020f9efb43b3b40f77838fb0fa.mp3",
+   "duration_sec": 11.8,
+   "tags": [],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Sword Waving",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/2da3f2aa2e7a6631b8e98fcc41a64670.mp3",
+   "duration_sec": 1.2,
+   "tags": [],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "RISER_01",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/874eca3d6e3a582988e860409c0f332d.mp3",
+   "duration_sec": 4.1,
+   "tags": [
+    "riser"
+   ],
+   "uses": 3,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Tune (when you turn off the TV or monitor, etc.)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/884acd7b70a63a04a7acd8cdc3d1fd12.mp3",
+   "duration_sec": 0.37,
+   "tags": [],
+   "uses": 2,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Mouse click 1",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/25b5bc6c42f453173fbf056859eec22b.mp3",
+   "duration_sec": 0.77,
+   "tags": [
+    "click"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Shoe Swoosh Cinematic(1564746)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/18b3935766c74363907956c6264d7cee.mp3",
+   "duration_sec": 3,
+   "tags": [
+    "whoosh"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Shu, steam(1137854)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/bce3f951a8c431554471d65c027b2835.mp3",
+   "duration_sec": 1.13,
+   "tags": [],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Kirarin glitter star magic 2",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/9e669fb5b60b72941b1fb8de623645a4.mp3",
+   "duration_sec": 6.63,
+   "tags": [
+    "shimmer"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Glitch sound that matches the sound logo(1124041)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/44232e6e77bff1153ec1e60c91b51b72.mp3",
+   "duration_sec": 0.83,
+   "tags": [
+    "glitch"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Pichu (disappear / turn off the screen / power off)",
+   "path": "C:\\Users\\asus\\AppData\\Local\\CapCut\\User Data\\Cache\\music\\ee36aa6adcc0c30fd9c591a97f2b6567.mp3",
+   "duration_sec": 0.9,
+   "tags": [],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Shakin! Sword sound(819514)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/db7accdc3b0002cef3b70f844bbf09b6.mp3",
+   "duration_sec": 1.13,
+   "tags": [],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Swoosh! The sound of a sharp sword slash.(1647432)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/9205e55a8f01d770560354ec2cc1c28f.mp3",
+   "duration_sec": 0.97,
+   "tags": [
+    "whoosh"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Shutter",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/029451819a5535b6b60334e401324cad.mp3",
+   "duration_sec": 0.7,
+   "tags": [
+    "camera"
+   ],
+   "uses": 2,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Fire magic (Bow!)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/1f1230e7e7c6030f5a55bfeb51c19c6b.mp3",
+   "duration_sec": 1.03,
+   "tags": [
+    "shimmer"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Fuwa: short wind noise: swipe etc",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/cc87eee8c1f4464dd0f467ae9347d6d8.mp3",
+   "duration_sec": 0.87,
+   "tags": [
+    "whoosh",
+    "success",
+    "glitch"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Correct Answer",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/2f2a43f99ec1030b4daf2991ab817829.mp3",
+   "duration_sec": 1.7,
+   "tags": [
+    "success"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  },
+  {
+   "name": "Camera shutter sound. \"Kasha\"(92309)",
+   "path": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music/2e0aa03ac8f57a658e781df0fc845ab2.mp3",
+   "duration_sec": 0.5,
+   "tags": [
+    "camera"
+   ],
+   "uses": 1,
+   "source": "capcut-library"
+  }
+ ]
+}

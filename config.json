@@ -1,0 +1,24 @@
+{
+  "capcut_drafts_root": "D:/capcut-initdata/CapCut Drafts",
+  "capcut_apps_dir": "C:/Users/asus/AppData/Local/CapCut/Apps",
+  "capcut_music_cache": "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/music",
+  "ffmpeg": "auto",
+  "sfx_libraries": [
+    "D:/claude-code-saas-video-editor/library/sfx",
+    "C:/Users/asus/Downloads/ui sfx -premium/ui sfx",
+    "D:/ui sfx",
+    "D:/soundeffets"
+  ],
+  "bgm_defaults": {
+    "volume": 0.16,
+    "preferred_names": [
+      "Gentle Ads(Uplifting Inspiring Modern Technology Future)",
+      "Story of One Success"
+    ]
+  },
+  "nepali_font_preferred": [
+    "C:/Users/asus/AppData/Local/CapCut/User Data/Cache/effect/7482756842486009094/92df43a041fca34183aa56ed9d814d41/font.ttf"
+  ],
+  "nepali_font_fallback": "C:/Windows/Fonts/Nirmala.ttc",
+  "pillow_font_for_boxes": "C:/Windows/Fonts/Nirmala.ttc"
+}
